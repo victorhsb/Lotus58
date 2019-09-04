@@ -1,8 +1,8 @@
 # Lily58 × qtkb Glow
 Lily58 is 6×4+4keys column-staggered split keyboard.
-![unadjustednonraw_thumb_2ddc](https://user-images.githubusercontent.com/6285554/53640050-6203dc00-3c6e-11e9-9434-5591ed3e414f.jpg)
+![Lily in the nighttime](https://i.imgur.com/t1W9UAS.jpg)
 
-![Glow](https://i.imgur.com/vjNbyMs.png)
+![PCB view](https://i.imgur.com/vjNbyMs.png)
 
 # Parts
 
