@@ -1,3 +1,3 @@
 (fp_lib_table
-  (lib (name Lily58-footprint)(type KiCad)(uri ${KIPRJMOD}/Lily58-footprint.pretty)(options "")(descr ""))
+  (lib (name KiCad-SSD1306-0.91-OLED-4pin-128x32)(type KiCad)(uri "D:/users/main/Dokuments/KiCad Designs/kicad custom library/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty-master")(options "")(descr ""))
 )
