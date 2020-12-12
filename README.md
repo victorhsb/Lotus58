@@ -1,10 +1,10 @@
-# Lotus58
+# Lotus 58
 
 Starting with simple tweaks to the Lily58 Glow before ordering a set of PCB's it quickly spiraled out of control, and I ended up with what wasn't quite a Lily58 anymore, and although very similar in layout, is no longer compatible with plate and case design. 
 
 Because of this it was renamed to Lotus58, referencing another flower much like the lily in the name Lily58.
 
-# Lotus58 Glow
+# Lotus 58 Glow
 
 - Layout very similar to the original Lily58 family
 - Per key RGB and RGB underglow
