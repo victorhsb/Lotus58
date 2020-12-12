@@ -1,6 +1,8 @@
 # Lotus58
 
-Starting with simple tweaks to the Lily58 Glow before ordering a set of PCB's it quickly spiraled out of control, and I ended up with what wasn't quite a Lily58 anymore, and although very similar in layout, is no longer compatible with plate and case design, meaning it was renamed to Lotus58, referencing another flower much like the lily in the name Lily58.
+Starting with simple tweaks to the Lily58 Glow before ordering a set of PCB's it quickly spiraled out of control, and I ended up with what wasn't quite a Lily58 anymore, and although very similar in layout, is no longer compatible with plate and case design. 
+
+Because of this it was renamed to Lotus58, referencing another flower much like the lily in the name Lily58.
 
 # Lotus58 Glow
 
