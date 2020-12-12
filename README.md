@@ -1,4 +1,4 @@
-# Lotus58 - A Lily58/Lily58 Glow derived keyboard design
+# Lotus58 - A Lily58 Glow derived keyboard design
 
 Starting with simple tweaks to the Lily58 Glow before ordering a set of PCB's it quickly spiraled out of control, and I ended up with what wasn't quite a Lily58 anymore.
 
