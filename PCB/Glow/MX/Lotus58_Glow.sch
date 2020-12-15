@@ -30,7 +30,7 @@ U 1 1 5B722503
 P 7150 4350
 F 0 "SW25" H 7150 4500 50  0000 C CNN
 F 1 "SW_PUSH" H 7150 4250 50  0000 C CNN
-F 2 "Keyboard Library:Cherry_MX_Kaihl_HS_1.0u_Reversible" H 7150 4350 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 7150 4350 50  0001 C CNN
 F 3 "" H 7150 4350 50  0000 C CNN
 	1    7150 4350
 	1    0    0    -1  
@@ -41,7 +41,7 @@ U 1 1 5B722582
 P 7950 4350
 F 0 "SW26" H 7950 4500 50  0000 C CNN
 F 1 "SW_PUSH" H 7950 4250 50  0000 C CNN
-F 2 "Keyboard Library:Cherry_MX_Kaihl_HS_1.5u_Reversible" H 7950 4350 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 7950 4350 50  0001 C CNN
 F 3 "" H 7950 4350 50  0000 C CNN
 	1    7950 4350
 	1    0    0    -1  
@@ -52,7 +52,7 @@ U 1 1 5B7225DA
 P 7150 1750
 F 0 "SW1" H 7150 1900 50  0000 C CNN
 F 1 "SW_PUSH" H 7150 1650 50  0000 C CNN
-F 2 "Keyboard Library:Cherry_MX_Kaihl_HS_1.0u_Reversible" H 7150 1750 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 7150 1750 50  0001 C CNN
 F 3 "" H 7150 1750 50  0000 C CNN
 	1    7150 1750
 	1    0    0    -1  
@@ -74,7 +74,7 @@ U 1 1 5B7227CD
 P 7950 1750
 F 0 "SW2" H 7950 1900 50  0000 C CNN
 F 1 "SW_PUSH" H 7950 1650 50  0000 C CNN
-F 2 "Keyboard Library:Cherry_MX_Kaihl_HS_1.0u_Reversible" H 7950 1750 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 7950 1750 50  0001 C CNN
 F 3 "" H 7950 1750 50  0000 C CNN
 	1    7950 1750
 	1    0    0    -1  
@@ -96,7 +96,7 @@ U 1 1 5B7228F7
 P 8750 1750
 F 0 "SW3" H 8750 1900 50  0000 C CNN
 F 1 "SW_PUSH" H 8750 1650 50  0000 C CNN
-F 2 "Keyboard Library:Cherry_MX_Kaihl_HS_1.0u_Reversible" H 8750 1750 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 8750 1750 50  0001 C CNN
 F 3 "" H 8750 1750 50  0000 C CNN
 	1    8750 1750
 	1    0    0    -1  
@@ -118,7 +118,7 @@ U 1 1 5B722A11
 P 9550 1750
 F 0 "SW4" H 9550 1900 50  0000 C CNN
 F 1 "SW_PUSH" H 9550 1650 50  0000 C CNN
-F 2 "Keyboard Library:Cherry_MX_Kaihl_HS_1.0u_Reversible" H 9550 1750 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 9550 1750 50  0001 C CNN
 F 3 "" H 9550 1750 50  0000 C CNN
 	1    9550 1750
 	1    0    0    -1  
@@ -140,7 +140,7 @@ U 1 1 5B722B51
 P 10350 1750
 F 0 "SW5" H 10350 1900 50  0000 C CNN
 F 1 "SW_PUSH" H 10350 1650 50  0000 C CNN
-F 2 "Keyboard Library:Cherry_MX_Kaihl_HS_1.0u_Reversible" H 10350 1750 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 10350 1750 50  0001 C CNN
 F 3 "" H 10350 1750 50  0000 C CNN
 	1    10350 1750
 	1    0    0    -1  
@@ -162,7 +162,7 @@ U 1 1 5B722CA9
 P 11150 1750
 F 0 "SW6" H 11150 1900 50  0000 C CNN
 F 1 "SW_PUSH" H 11150 1700 50  0000 C CNN
-F 2 "Keyboard Library:Cherry_MX_Kaihl_HS_1.0u_Reversible" H 11150 1750 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 11150 1750 50  0001 C CNN
 F 3 "" H 11150 1750 50  0000 C CNN
 	1    11150 1750
 	1    0    0    -1  
@@ -184,7 +184,7 @@ U 1 1 5B723388
 P 7950 2400
 F 0 "SW8" H 7950 2550 50  0000 C CNN
 F 1 "SW_PUSH" H 7950 2300 50  0000 C CNN
-F 2 "Keyboard Library:Cherry_MX_Kaihl_HS_1.0u_Reversible" H 7950 2400 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 7950 2400 50  0001 C CNN
 F 3 "" H 7950 2400 50  0000 C CNN
 	1    7950 2400
 	1    0    0    -1  
@@ -195,7 +195,7 @@ U 1 1 5B723731
 P 8750 2400
 F 0 "SW9" H 8750 2550 50  0000 C CNN
 F 1 "SW_PUSH" H 8750 2300 50  0000 C CNN
-F 2 "Keyboard Library:Cherry_MX_Kaihl_HS_1.0u_Reversible" H 8750 2400 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 8750 2400 50  0001 C CNN
 F 3 "" H 8750 2400 50  0000 C CNN
 	1    8750 2400
 	1    0    0    -1  
@@ -206,7 +206,7 @@ U 1 1 5B7237A6
 P 9550 2400
 F 0 "SW10" H 9550 2550 50  0000 C CNN
 F 1 "SW_PUSH" H 9550 2300 50  0000 C CNN
-F 2 "Keyboard Library:Cherry_MX_Kaihl_HS_1.0u_Reversible" H 9550 2400 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 9550 2400 50  0001 C CNN
 F 3 "" H 9550 2400 50  0000 C CNN
 	1    9550 2400
 	1    0    0    -1  
@@ -217,7 +217,7 @@ U 1 1 5B72387D
 P 10350 2400
 F 0 "SW11" H 10350 2550 50  0000 C CNN
 F 1 "SW_PUSH" H 10350 2300 50  0000 C CNN
-F 2 "Keyboard Library:Cherry_MX_Kaihl_HS_1.0u_Reversible" H 10350 2400 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 10350 2400 50  0001 C CNN
 F 3 "" H 10350 2400 50  0000 C CNN
 	1    10350 2400
 	1    0    0    -1  
@@ -228,7 +228,7 @@ U 1 1 5B723AD3
 P 11150 2400
 F 0 "SW12" H 11150 2550 50  0000 C CNN
 F 1 "SW_PUSH" H 11150 2300 50  0000 C CNN
-F 2 "Keyboard Library:Cherry_MX_Kaihl_HS_1.0u_Reversible" H 11150 2400 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 11150 2400 50  0001 C CNN
 F 3 "" H 11150 2400 50  0000 C CNN
 	1    11150 2400
 	1    0    0    -1  
@@ -239,7 +239,7 @@ U 1 1 5B723C9D
 P 7150 2400
 F 0 "SW7" H 7150 2550 50  0000 C CNN
 F 1 "SW_PUSH" H 7150 2300 50  0000 C CNN
-F 2 "Keyboard Library:Cherry_MX_Kaihl_HS_1.0u_Reversible" H 7150 2400 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 7150 2400 50  0001 C CNN
 F 3 "" H 7150 2400 50  0000 C CNN
 	1    7150 2400
 	1    0    0    -1  
@@ -316,7 +316,7 @@ U 1 1 5B7250AD
 P 7150 3050
 F 0 "SW13" H 7150 3200 50  0000 C CNN
 F 1 "SW_PUSH" H 7150 2950 50  0000 C CNN
-F 2 "Keyboard Library:Cherry_MX_Kaihl_HS_1.0u_Reversible" H 7150 3050 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 7150 3050 50  0001 C CNN
 F 3 "" H 7150 3050 50  0000 C CNN
 	1    7150 3050
 	1    0    0    -1  
@@ -327,7 +327,7 @@ U 1 1 5B725133
 P 7950 3050
 F 0 "SW14" H 7950 3200 50  0000 C CNN
 F 1 "SW_PUSH" H 7950 2950 50  0000 C CNN
-F 2 "Keyboard Library:Cherry_MX_Kaihl_HS_1.0u_Reversible" H 7950 3050 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 7950 3050 50  0001 C CNN
 F 3 "" H 7950 3050 50  0000 C CNN
 	1    7950 3050
 	1    0    0    -1  
@@ -338,7 +338,7 @@ U 1 1 5B7251BF
 P 8750 3050
 F 0 "SW15" H 8750 3200 50  0000 C CNN
 F 1 "SW_PUSH" H 8750 2950 50  0000 C CNN
-F 2 "Keyboard Library:Cherry_MX_Kaihl_HS_1.0u_Reversible" H 8750 3050 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 8750 3050 50  0001 C CNN
 F 3 "" H 8750 3050 50  0000 C CNN
 	1    8750 3050
 	1    0    0    -1  
@@ -349,7 +349,7 @@ U 1 1 5B72524E
 P 9550 3050
 F 0 "SW16" H 9550 3200 50  0000 C CNN
 F 1 "SW_PUSH" H 9550 2950 50  0000 C CNN
-F 2 "Keyboard Library:Cherry_MX_Kaihl_HS_1.0u_Reversible" H 9550 3050 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 9550 3050 50  0001 C CNN
 F 3 "" H 9550 3050 50  0000 C CNN
 	1    9550 3050
 	1    0    0    -1  
@@ -360,7 +360,7 @@ U 1 1 5B7252F1
 P 10350 3050
 F 0 "SW17" H 10350 3200 50  0000 C CNN
 F 1 "SW_PUSH" H 10350 2950 50  0000 C CNN
-F 2 "Keyboard Library:Cherry_MX_Kaihl_HS_1.0u_Reversible" H 10350 3050 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 10350 3050 50  0001 C CNN
 F 3 "" H 10350 3050 50  0000 C CNN
 	1    10350 3050
 	1    0    0    -1  
@@ -371,7 +371,7 @@ U 1 1 5B725398
 P 11150 3050
 F 0 "SW18" H 11150 3200 50  0000 C CNN
 F 1 "SW_PUSH" H 11150 2950 50  0000 C CNN
-F 2 "Keyboard Library:Cherry_MX_Kaihl_HS_1.0u_Reversible" H 11150 3050 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 11150 3050 50  0001 C CNN
 F 3 "" H 11150 3050 50  0000 C CNN
 	1    11150 3050
 	1    0    0    -1  
@@ -448,7 +448,7 @@ U 1 1 5B726F89
 P 8750 3700
 F 0 "SW21" H 8750 3850 50  0000 C CNN
 F 1 "SW_PUSH" H 8750 3600 50  0000 C CNN
-F 2 "Keyboard Library:Cherry_MX_Kaihl_HS_1.0u_Reversible" H 8750 3700 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 8750 3700 50  0001 C CNN
 F 3 "" H 8750 3700 50  0000 C CNN
 	1    8750 3700
 	1    0    0    -1  
@@ -459,7 +459,7 @@ U 1 1 5B727035
 P 9550 3700
 F 0 "SW22" H 9550 3850 50  0000 C CNN
 F 1 "SW_PUSH" H 9550 3600 50  0000 C CNN
-F 2 "Keyboard Library:Cherry_MX_Kaihl_HS_1.0u_Reversible" H 9550 3700 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 9550 3700 50  0001 C CNN
 F 3 "" H 9550 3700 50  0000 C CNN
 	1    9550 3700
 	1    0    0    -1  
@@ -470,7 +470,7 @@ U 1 1 5B7270F6
 P 10350 3700
 F 0 "SW23" H 10350 3850 50  0000 C CNN
 F 1 "SW_PUSH" H 10350 3600 50  0000 C CNN
-F 2 "Keyboard Library:Cherry_MX_Kaihl_HS_1.0u_Reversible" H 10350 3700 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 10350 3700 50  0001 C CNN
 F 3 "" H 10350 3700 50  0000 C CNN
 	1    10350 3700
 	1    0    0    -1  
@@ -481,7 +481,7 @@ U 1 1 5B7271A5
 P 11150 3700
 F 0 "SW24" H 11150 3850 50  0000 C CNN
 F 1 "SW_PUSH" H 11150 3600 50  0000 C CNN
-F 2 "Keyboard Library:Cherry_MX_Kaihl_HS_1.0u_Reversible" H 11150 3700 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 11150 3700 50  0001 C CNN
 F 3 "" H 11150 3700 50  0000 C CNN
 	1    11150 3700
 	1    0    0    -1  
@@ -492,7 +492,7 @@ U 1 1 5B727256
 P 7950 3700
 F 0 "SW20" H 7950 3850 50  0000 C CNN
 F 1 "SW_PUSH" H 7950 3600 50  0000 C CNN
-F 2 "Keyboard Library:Cherry_MX_Kaihl_HS_1.0u_Reversible" H 7950 3700 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 7950 3700 50  0001 C CNN
 F 3 "" H 7950 3700 50  0000 C CNN
 	1    7950 3700
 	1    0    0    -1  
@@ -503,7 +503,7 @@ U 1 1 5B727312
 P 7150 3700
 F 0 "SW19" H 7150 3850 50  0000 C CNN
 F 1 "SW_PUSH" H 7150 3600 50  0000 C CNN
-F 2 "Keyboard Library:Cherry_MX_Kaihl_HS_1.0u_Reversible" H 7150 3700 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 7150 3700 50  0001 C CNN
 F 3 "" H 7150 3700 50  0000 C CNN
 	1    7150 3700
 	1    0    0    -1  
@@ -580,7 +580,7 @@ U 1 1 5B7293B0
 P 8750 4350
 F 0 "SW27" H 8750 4500 50  0000 C CNN
 F 1 "SW_PUSH" H 8750 4250 50  0000 C CNN
-F 2 "Keyboard Library:Cherry_MX_Kaihl_HS_1.0u_Reversible" H 8750 4350 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 8750 4350 50  0001 C CNN
 F 3 "" H 8750 4350 50  0000 C CNN
 	1    8750 4350
 	1    0    0    -1  
@@ -591,7 +591,7 @@ U 1 1 5B734347
 P 9550 4350
 F 0 "SW28" H 9550 4500 50  0000 C CNN
 F 1 "SW_PUSH" H 9550 4250 50  0000 C CNN
-F 2 "Keyboard Library:Cherry_MX_Kaihl_HS_1.0u_Reversible" H 9550 4350 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 9550 4350 50  0001 C CNN
 F 3 "" H 9550 4350 50  0000 C CNN
 	1    9550 4350
 	1    0    0    -1  
@@ -602,7 +602,7 @@ U 1 1 5B73449B
 P 10350 4350
 F 0 "SW29" H 10350 4500 50  0000 C CNN
 F 1 "SW_PUSH" H 10350 4250 50  0000 C CNN
-F 2 "Keyboard Library:Cherry_MX_Kaihl_HS_1.0u_Reversible" H 10350 4350 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 10350 4350 50  0001 C CNN
 F 3 "" H 10350 4350 50  0000 C CNN
 	1    10350 4350
 	1    0    0    -1  
@@ -688,13 +688,13 @@ Text GLabel 4050 1900 2    50   Input ~ 0
 col5
 Text GLabel 4050 2000 2    50   Input ~ 0
 col4
-Text GLabel 4050 2100 2    50   Input ~ 0
+Text GLabel 4050 2400 2    50   Input ~ 0
 col3
 Text GLabel 4050 2200 2    50   Input ~ 0
 col2
 Text GLabel 4050 2300 2    50   Input ~ 0
 col1
-Text GLabel 4050 2400 2    50   Input ~ 0
+Text GLabel 4050 2100 2    50   Input ~ 0
 col0
 $Comp
 L power:VCC #PWR04
@@ -716,15 +716,15 @@ Text GLabel 2450 1800 0    50   Input ~ 0
 SCL
 Text GLabel 2450 1700 0    50   Input ~ 0
 SDA
-Text GLabel 2450 2000 0    50   Input ~ 0
+Text GLabel 2450 1900 0    50   Input ~ 0
 row0
-Text GLabel 2450 2100 0    50   Input ~ 0
+Text GLabel 2450 2000 0    50   Input ~ 0
 row1
-Text GLabel 2450 2200 0    50   Input ~ 0
+Text GLabel 2450 2100 0    50   Input ~ 0
 row2
-Text GLabel 2450 2300 0    50   Input ~ 0
+Text GLabel 2450 2200 0    50   Input ~ 0
 row3
-Text GLabel 2450 2400 0    50   Input ~ 0
+Text GLabel 2450 2300 0    50   Input ~ 0
 row4
 $Comp
 L power:VCC #PWR05
@@ -1109,672 +1109,444 @@ Wire Wire Line
 	2800 5450 2650 5450
 Wire Wire Line
 	2600 5550 2800 5550
+Connection ~ 2250 6650
 Wire Wire Line
-	1825 8850 2150 8850
+	1750 6650 2250 6650
 Wire Wire Line
-	1825 8200 1825 8850
+	4150 9750 4350 9750
 Wire Wire Line
-	2150 8200 1825 8200
-Connection ~ 2450 10450
-Wire Wire Line
-	1950 10450 2450 10450
-Connection ~ 2450 9150
-Wire Wire Line
-	1950 9150 2450 9150
-Connection ~ 2450 8550
-Wire Wire Line
-	1950 8550 2450 8550
-Connection ~ 2450 7850
-Wire Wire Line
-	1950 7850 2450 7850
-Connection ~ 2450 7250
-Wire Wire Line
-	1950 7250 2450 7250
-Wire Wire Line
-	7075 9500 6750 9500
-Wire Wire Line
-	7075 8850 7075 9500
-Wire Wire Line
-	6750 8850 7075 8850
-Wire Wire Line
-	7075 8200 6750 8200
-Wire Wire Line
-	7075 7550 7075 8200
-Wire Wire Line
-	6750 7550 7075 7550
-Wire Wire Line
-	4350 10150 4550 10150
-Wire Wire Line
-	3550 10150 3750 10150
-Wire Wire Line
-	4050 10450 4850 10450
-Connection ~ 4050 10450
-Connection ~ 3250 10450
-Wire Wire Line
-	3250 10450 4050 10450
+	3350 9750 3550 9750
 $Comp
 L LED:SK6812MINI L28
 U 1 1 5D44C2D1
-P 4850 10150
-F 0 "L28" H 4875 10400 50  0000 L CNN
-F 1 "SK6812mini" H 4375 9900 50  0000 L CNN
-F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 4900 9850 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4950 9775 50  0001 L TNN
-	1    4850 10150
+P 4650 9750
+F 0 "L28" H 4675 10000 50  0000 L CNN
+F 1 "SK6812mini" H 4175 9500 50  0000 L CNN
+F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 4700 9450 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4750 9375 50  0001 L TNN
+	1    4650 9750
 	1    0    0    -1  
 $EndComp
 $Comp
 L LED:SK6812MINI L27
 U 1 1 5D44C2CB
-P 4050 10150
-F 0 "L27" H 4075 10400 50  0000 L CNN
-F 1 "SK6812mini" H 3575 9900 50  0000 L CNN
-F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 4100 9850 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4150 9775 50  0001 L TNN
-	1    4050 10150
+P 3850 9750
+F 0 "L27" H 3875 10000 50  0000 L CNN
+F 1 "SK6812mini" H 3375 9500 50  0000 L CNN
+F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 3900 9450 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3950 9375 50  0001 L TNN
+	1    3850 9750
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	3250 10450 2450 10450
-Wire Wire Line
-	2750 10150 2950 10150
+	2550 9750 2750 9750
 $Comp
 L LED:SK6812MINI L26
 U 1 1 5D44C2C0
-P 3250 10150
-F 0 "L26" H 3275 10400 50  0000 L CNN
-F 1 "SK6812mini" H 2775 9900 50  0000 L CNN
-F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 3300 9850 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3350 9775 50  0001 L TNN
-	1    3250 10150
+P 3050 9750
+F 0 "L26" H 3075 10000 50  0000 L CNN
+F 1 "SK6812mini" H 2575 9500 50  0000 L CNN
+F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 3100 9450 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3150 9375 50  0001 L TNN
+	1    3050 9750
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:GND #PWR0105
 U 1 1 5D44C2B9
-P 1950 10450
-F 0 "#PWR0105" H 1950 10200 50  0001 C CNN
-F 1 "GND" H 1955 10277 50  0000 C CNN
-F 2 "" H 1950 10450 50  0001 C CNN
-F 3 "" H 1950 10450 50  0001 C CNN
-	1    1950 10450
+P 1750 10100
+F 0 "#PWR0105" H 1750 9850 50  0001 C CNN
+F 1 "GND" H 1755 9927 50  0000 C CNN
+F 2 "" H 1750 10100 50  0001 C CNN
+F 3 "" H 1750 10100 50  0001 C CNN
+	1    1750 10100
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:VCC #PWR0106
 U 1 1 5D44C2B2
-P 1950 9850
-F 0 "#PWR0106" H 1950 9700 50  0001 C CNN
-F 1 "VCC" H 1967 10023 50  0000 C CNN
-F 2 "" H 1950 9850 50  0001 C CNN
-F 3 "" H 1950 9850 50  0001 C CNN
-	1    1950 9850
+P 1750 9400
+F 0 "#PWR0106" H 1750 9250 50  0001 C CNN
+F 1 "VCC" H 1767 9573 50  0000 C CNN
+F 2 "" H 1750 9400 50  0001 C CNN
+F 3 "" H 1750 9400 50  0001 C CNN
+	1    1750 9400
 	1    0    0    -1  
 $EndComp
 $Comp
 L LED:SK6812MINI L25
 U 1 1 5D44C2AB
-P 2450 10150
-F 0 "L25" H 2475 10400 50  0000 L CNN
-F 1 "SK6812mini" H 1975 9900 50  0000 L CNN
-F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 2500 9850 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2550 9775 50  0001 L TNN
-	1    2450 10150
+P 2250 9750
+F 0 "L25" H 2275 10000 50  0000 L CNN
+F 1 "SK6812mini" H 1775 9500 50  0000 L CNN
+F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 2300 9450 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2350 9375 50  0001 L TNN
+	1    2250 9750
 	1    0    0    -1  
 $EndComp
-Connection ~ 6450 9200
 Wire Wire Line
-	6450 9200 6950 9200
-Connection ~ 6450 9800
+	4950 9050 5150 9050
 Wire Wire Line
-	6450 9800 6950 9800
+	4150 9050 4350 9050
 Wire Wire Line
-	5950 9500 6150 9500
-Wire Wire Line
-	5150 9500 5350 9500
-Wire Wire Line
-	4350 9500 4550 9500
-Wire Wire Line
-	3550 9500 3750 9500
-Wire Wire Line
-	5650 9800 6450 9800
-Connection ~ 5650 9800
-Wire Wire Line
-	4850 9800 5650 9800
-Connection ~ 4850 9800
-Wire Wire Line
-	4050 9800 4850 9800
-Connection ~ 4050 9800
-Connection ~ 3250 9800
-Wire Wire Line
-	3250 9800 4050 9800
-Wire Wire Line
-	5650 9200 6450 9200
-Connection ~ 5650 9200
-Wire Wire Line
-	4850 9200 5650 9200
-Connection ~ 4850 9200
-Wire Wire Line
-	4050 9200 4850 9200
-Connection ~ 4050 9200
-Connection ~ 3250 9200
-Wire Wire Line
-	3250 9200 4050 9200
+	3350 9050 3550 9050
 $Comp
 L LED:SK6812MINI L24
 U 1 1 5D3B3CCB
-P 6450 9500
-F 0 "L24" H 6325 9750 50  0000 L CNN
-F 1 "SK6812mini" H 5975 9250 50  0000 L CNN
-F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 6500 9200 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 6550 9125 50  0001 L TNN
-	1    6450 9500
-	-1   0    0    -1  
+P 8000 9050
+F 0 "L24" H 7875 9300 50  0000 L CNN
+F 1 "SK6812mini" H 7525 8800 50  0000 L CNN
+F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 8050 8750 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 8100 8675 50  0001 L TNN
+	1    8000 9050
+	-1   0    0    1   
 $EndComp
 $Comp
 L LED:SK6812MINI L23
 U 1 1 5D3B3CC5
-P 5650 9500
-F 0 "L23" H 5525 9750 50  0000 L CNN
-F 1 "SK6812mini" H 5175 9250 50  0000 L CNN
-F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 5700 9200 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5750 9125 50  0001 L TNN
-	1    5650 9500
-	-1   0    0    -1  
+P 6250 9050
+F 0 "L23" H 6125 9300 50  0000 L CNN
+F 1 "SK6812mini" H 5775 8800 50  0000 L CNN
+F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 6300 8750 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 6350 8675 50  0001 L TNN
+	1    6250 9050
+	-1   0    0    1   
 $EndComp
 $Comp
 L LED:SK6812MINI L22
 U 1 1 5D3B3CBF
-P 4850 9500
-F 0 "L22" H 4725 9750 50  0000 L CNN
-F 1 "SK6812mini" H 4375 9250 50  0000 L CNN
-F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 4900 9200 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4950 9125 50  0001 L TNN
-	1    4850 9500
-	-1   0    0    -1  
+P 5450 9050
+F 0 "L22" H 5325 9300 50  0000 L CNN
+F 1 "SK6812mini" H 4975 8800 50  0000 L CNN
+F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 5500 8750 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5550 8675 50  0001 L TNN
+	1    5450 9050
+	-1   0    0    1   
 $EndComp
 $Comp
 L LED:SK6812MINI L21
 U 1 1 5D3B3CB9
-P 4050 9500
-F 0 "L21" H 3925 9750 50  0000 L CNN
-F 1 "SK6812mini" H 3575 9250 50  0000 L CNN
-F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 4100 9200 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4150 9125 50  0001 L TNN
-	1    4050 9500
-	-1   0    0    -1  
+P 4650 9050
+F 0 "L21" H 4525 9300 50  0000 L CNN
+F 1 "SK6812mini" H 4175 8800 50  0000 L CNN
+F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 4700 8750 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4750 8675 50  0001 L TNN
+	1    4650 9050
+	-1   0    0    1   
 $EndComp
 Wire Wire Line
-	3250 9800 2450 9800
-Wire Wire Line
-	2450 9200 3250 9200
-Wire Wire Line
-	2750 9500 2950 9500
+	2550 9050 2750 9050
 $Comp
 L LED:SK6812MINI L20
 U 1 1 5D3B3CB0
-P 3250 9500
-F 0 "L20" H 3125 9750 50  0000 L CNN
-F 1 "SK6812mini" H 2775 9250 50  0000 L CNN
-F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 3300 9200 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3350 9125 50  0001 L TNN
-	1    3250 9500
-	-1   0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR0107
-U 1 1 5D3B3CAA
-P 6950 9800
-F 0 "#PWR0107" H 6950 9550 50  0001 C CNN
-F 1 "GND" H 6955 9627 50  0000 C CNN
-F 2 "" H 6950 9800 50  0001 C CNN
-F 3 "" H 6950 9800 50  0001 C CNN
-	1    6950 9800
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:VCC #PWR0108
-U 1 1 5D3B3CA4
-P 6950 9200
-F 0 "#PWR0108" H 6950 9050 50  0001 C CNN
-F 1 "VCC" H 6967 9373 50  0000 C CNN
-F 2 "" H 6950 9200 50  0001 C CNN
-F 3 "" H 6950 9200 50  0001 C CNN
-	1    6950 9200
-	1    0    0    -1  
+P 3850 9050
+F 0 "L20" H 3725 9300 50  0000 L CNN
+F 1 "SK6812mini" H 3375 8800 50  0000 L CNN
+F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 3900 8750 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3950 8675 50  0001 L TNN
+	1    3850 9050
+	-1   0    0    1   
 $EndComp
 $Comp
 L LED:SK6812MINI L19
 U 1 1 5D3B3C9E
-P 2450 9500
-F 0 "L19" H 2325 9750 50  0000 L CNN
-F 1 "SK6812mini" H 1975 9250 50  0000 L CNN
-F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 2500 9200 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2550 9125 50  0001 L TNN
-	1    2450 9500
-	-1   0    0    -1  
+P 3050 9050
+F 0 "L19" H 2925 9300 50  0000 L CNN
+F 1 "SK6812mini" H 2575 8800 50  0000 L CNN
+F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 3100 8750 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3150 8675 50  0001 L TNN
+	1    3050 9050
+	-1   0    0    1   
 $EndComp
 Wire Wire Line
-	5950 8850 6150 8850
+	5750 8350 5950 8350
 Wire Wire Line
-	5150 8850 5350 8850
+	4950 8350 5150 8350
 Wire Wire Line
-	4350 8850 4550 8850
+	4150 8350 4350 8350
 Wire Wire Line
-	3550 8850 3750 8850
-Wire Wire Line
-	5650 9150 6450 9150
-Connection ~ 5650 9150
-Wire Wire Line
-	4850 9150 5650 9150
-Connection ~ 4850 9150
-Wire Wire Line
-	4050 9150 4850 9150
-Connection ~ 4050 9150
-Connection ~ 3250 9150
-Wire Wire Line
-	3250 9150 4050 9150
-Wire Wire Line
-	5650 8550 6450 8550
-Connection ~ 5650 8550
-Wire Wire Line
-	4850 8550 5650 8550
-Connection ~ 4850 8550
-Wire Wire Line
-	4050 8550 4850 8550
-Connection ~ 4050 8550
-Connection ~ 3250 8550
-Wire Wire Line
-	3250 8550 4050 8550
+	3350 8350 3550 8350
 $Comp
 L LED:SK6812MINI L18
 U 1 1 5D3B3C84
-P 6450 8850
-F 0 "L18" H 6475 9100 50  0000 L CNN
-F 1 "SK6812mini" H 6475 8600 50  0000 L CNN
-F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 6500 8550 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 6550 8475 50  0001 L TNN
-	1    6450 8850
+P 6250 8350
+F 0 "L18" H 6275 8600 50  0000 L CNN
+F 1 "SK6812mini" H 6275 8100 50  0000 L CNN
+F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 6300 8050 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 6350 7975 50  0001 L TNN
+	1    6250 8350
 	1    0    0    -1  
 $EndComp
 $Comp
 L LED:SK6812MINI L17
 U 1 1 5D3B3C7E
-P 5650 8850
-F 0 "L17" H 5675 9100 50  0000 L CNN
-F 1 "SK6812mini" H 5675 8600 50  0000 L CNN
-F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 5700 8550 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5750 8475 50  0001 L TNN
-	1    5650 8850
+P 5450 8350
+F 0 "L17" H 5475 8600 50  0000 L CNN
+F 1 "SK6812mini" H 5475 8100 50  0000 L CNN
+F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 5500 8050 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5550 7975 50  0001 L TNN
+	1    5450 8350
 	1    0    0    -1  
 $EndComp
 $Comp
 L LED:SK6812MINI L16
 U 1 1 5D3B3C78
-P 4850 8850
-F 0 "L16" H 4875 9100 50  0000 L CNN
-F 1 "SK6812mini" H 4875 8600 50  0000 L CNN
-F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 4900 8550 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4950 8475 50  0001 L TNN
-	1    4850 8850
+P 4650 8350
+F 0 "L16" H 4675 8600 50  0000 L CNN
+F 1 "SK6812mini" H 4675 8100 50  0000 L CNN
+F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 4700 8050 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4750 7975 50  0001 L TNN
+	1    4650 8350
 	1    0    0    -1  
 $EndComp
 $Comp
 L LED:SK6812MINI L15
 U 1 1 5D3B3C72
-P 4050 8850
-F 0 "L15" H 4075 9100 50  0000 L CNN
-F 1 "SK6812mini" H 4075 8600 50  0000 L CNN
-F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 4100 8550 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4150 8475 50  0001 L TNN
-	1    4050 8850
+P 3850 8350
+F 0 "L15" H 3875 8600 50  0000 L CNN
+F 1 "SK6812mini" H 3875 8100 50  0000 L CNN
+F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 3900 8050 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3950 7975 50  0001 L TNN
+	1    3850 8350
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	3250 9150 2450 9150
-Wire Wire Line
-	2450 8550 3250 8550
-Wire Wire Line
-	2750 8850 2950 8850
+	2550 8350 2750 8350
 $Comp
 L LED:SK6812MINI L14
 U 1 1 5D3B3C67
-P 3250 8850
-F 0 "L14" H 3275 9100 50  0000 L CNN
-F 1 "SK6812mini" H 3275 8600 50  0000 L CNN
-F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 3300 8550 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3350 8475 50  0001 L TNN
-	1    3250 8850
+P 3050 8350
+F 0 "L14" H 3075 8600 50  0000 L CNN
+F 1 "SK6812mini" H 3075 8100 50  0000 L CNN
+F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 3100 8050 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3150 7975 50  0001 L TNN
+	1    3050 8350
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:GND #PWR0109
 U 1 1 5D3B3C60
-P 1950 9150
-F 0 "#PWR0109" H 1950 8900 50  0001 C CNN
-F 1 "GND" H 1955 8977 50  0000 C CNN
-F 2 "" H 1950 9150 50  0001 C CNN
-F 3 "" H 1950 9150 50  0001 C CNN
-	1    1950 9150
+P 1750 8700
+F 0 "#PWR0109" H 1750 8450 50  0001 C CNN
+F 1 "GND" H 1755 8527 50  0000 C CNN
+F 2 "" H 1750 8700 50  0001 C CNN
+F 3 "" H 1750 8700 50  0001 C CNN
+	1    1750 8700
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:VCC #PWR0110
 U 1 1 5D3B3C59
-P 1950 8550
-F 0 "#PWR0110" H 1950 8400 50  0001 C CNN
-F 1 "VCC" H 1967 8723 50  0000 C CNN
-F 2 "" H 1950 8550 50  0001 C CNN
-F 3 "" H 1950 8550 50  0001 C CNN
-	1    1950 8550
+P 1750 8000
+F 0 "#PWR0110" H 1750 7850 50  0001 C CNN
+F 1 "VCC" H 1767 8173 50  0000 C CNN
+F 2 "" H 1750 8000 50  0001 C CNN
+F 3 "" H 1750 8000 50  0001 C CNN
+	1    1750 8000
 	1    0    0    -1  
 $EndComp
 $Comp
 L LED:SK6812MINI L13
 U 1 1 5D3B3C52
-P 2450 8850
-F 0 "L13" H 2475 9100 50  0000 L CNN
-F 1 "SK6812mini" H 2475 8600 50  0000 L CNN
-F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 2500 8550 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2550 8475 50  0001 L TNN
-	1    2450 8850
+P 2250 8350
+F 0 "L13" H 2275 8600 50  0000 L CNN
+F 1 "SK6812mini" H 2275 8100 50  0000 L CNN
+F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 2300 8050 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2350 7975 50  0001 L TNN
+	1    2250 8350
 	1    0    0    -1  
 $EndComp
-Connection ~ 6450 7900
 Wire Wire Line
-	6450 7900 6950 7900
-Connection ~ 6450 8500
+	5750 7650 5950 7650
 Wire Wire Line
-	6450 8500 6950 8500
+	4950 7650 5150 7650
 Wire Wire Line
-	5950 8200 6150 8200
+	4150 7650 4350 7650
 Wire Wire Line
-	5150 8200 5350 8200
-Wire Wire Line
-	4350 8200 4550 8200
-Wire Wire Line
-	3550 8200 3750 8200
-Wire Wire Line
-	5650 8500 6450 8500
-Connection ~ 5650 8500
-Wire Wire Line
-	4850 8500 5650 8500
-Connection ~ 4850 8500
-Wire Wire Line
-	4050 8500 4850 8500
-Connection ~ 4050 8500
-Connection ~ 3250 8500
-Wire Wire Line
-	3250 8500 4050 8500
-Wire Wire Line
-	5650 7900 6450 7900
-Connection ~ 5650 7900
-Wire Wire Line
-	4850 7900 5650 7900
-Connection ~ 4850 7900
-Wire Wire Line
-	4050 7900 4850 7900
-Connection ~ 4050 7900
-Connection ~ 3250 7900
-Wire Wire Line
-	3250 7900 4050 7900
+	3350 7650 3550 7650
 $Comp
 L LED:SK6812MINI L12
 U 1 1 5D36810E
-P 6450 8200
-F 0 "L12" H 6325 8450 50  0000 L CNN
-F 1 "SK6812mini" H 5975 7950 50  0000 L CNN
-F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 6500 7900 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 6550 7825 50  0001 L TNN
-	1    6450 8200
-	-1   0    0    -1  
+P 6250 7650
+F 0 "L12" H 6125 7900 50  0000 L CNN
+F 1 "SK6812mini" H 5775 7400 50  0000 L CNN
+F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 6300 7350 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 6350 7275 50  0001 L TNN
+	1    6250 7650
+	-1   0    0    1   
 $EndComp
 $Comp
 L LED:SK6812MINI L11
 U 1 1 5D368108
-P 5650 8200
-F 0 "L11" H 5525 8450 50  0000 L CNN
-F 1 "SK6812mini" H 5175 7950 50  0000 L CNN
-F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 5700 7900 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5750 7825 50  0001 L TNN
-	1    5650 8200
-	-1   0    0    -1  
+P 5450 7650
+F 0 "L11" H 5325 7900 50  0000 L CNN
+F 1 "SK6812mini" H 4975 7400 50  0000 L CNN
+F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 5500 7350 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5550 7275 50  0001 L TNN
+	1    5450 7650
+	-1   0    0    1   
 $EndComp
 $Comp
 L LED:SK6812MINI L10
 U 1 1 5D368102
-P 4850 8200
-F 0 "L10" H 4725 8450 50  0000 L CNN
-F 1 "SK6812mini" H 4375 7950 50  0000 L CNN
-F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 4900 7900 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4950 7825 50  0001 L TNN
-	1    4850 8200
-	-1   0    0    -1  
+P 4650 7650
+F 0 "L10" H 4525 7900 50  0000 L CNN
+F 1 "SK6812mini" H 4175 7400 50  0000 L CNN
+F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 4700 7350 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4750 7275 50  0001 L TNN
+	1    4650 7650
+	-1   0    0    1   
 $EndComp
 $Comp
 L LED:SK6812MINI L9
 U 1 1 5D3680FC
-P 4050 8200
-F 0 "L9" H 3925 8450 50  0000 L CNN
-F 1 "SK6812mini" H 3575 7950 50  0000 L CNN
-F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 4100 7900 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4150 7825 50  0001 L TNN
-	1    4050 8200
-	-1   0    0    -1  
+P 3850 7650
+F 0 "L9" H 3725 7900 50  0000 L CNN
+F 1 "SK6812mini" H 3375 7400 50  0000 L CNN
+F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 3900 7350 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3950 7275 50  0001 L TNN
+	1    3850 7650
+	-1   0    0    1   
 $EndComp
 Wire Wire Line
-	3250 8500 2450 8500
-Wire Wire Line
-	2450 7900 3250 7900
-Wire Wire Line
-	2750 8200 2950 8200
+	2550 7650 2750 7650
 $Comp
 L LED:SK6812MINI L8
 U 1 1 5D3680F1
-P 3250 8200
-F 0 "L8" H 3125 8450 50  0000 L CNN
-F 1 "SK6812mini" H 2775 7950 50  0000 L CNN
-F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 3300 7900 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3350 7825 50  0001 L TNN
-	1    3250 8200
-	-1   0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR0111
-U 1 1 5D3680EA
-P 6950 8500
-F 0 "#PWR0111" H 6950 8250 50  0001 C CNN
-F 1 "GND" H 6955 8327 50  0000 C CNN
-F 2 "" H 6950 8500 50  0001 C CNN
-F 3 "" H 6950 8500 50  0001 C CNN
-	1    6950 8500
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:VCC #PWR0112
-U 1 1 5D3680E3
-P 6950 7900
-F 0 "#PWR0112" H 6950 7750 50  0001 C CNN
-F 1 "VCC" H 6967 8073 50  0000 C CNN
-F 2 "" H 6950 7900 50  0001 C CNN
-F 3 "" H 6950 7900 50  0001 C CNN
-	1    6950 7900
-	1    0    0    -1  
-$EndComp
-$Comp
-L LED:SK6812MINI L7
-U 1 1 5D3680DC
-P 2450 8200
-F 0 "L7" H 2325 8450 50  0000 L CNN
-F 1 "SK6812mini" H 1975 7950 50  0000 L CNN
-F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 2500 7900 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2550 7825 50  0001 L TNN
-	1    2450 8200
-	-1   0    0    -1  
+P 3050 7650
+F 0 "L8" H 2925 7900 50  0000 L CNN
+F 1 "SK6812mini" H 2575 7400 50  0000 L CNN
+F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 3100 7350 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3150 7275 50  0001 L TNN
+	1    3050 7650
+	-1   0    0    1   
 $EndComp
 Wire Wire Line
-	5950 7550 6150 7550
+	5750 6950 5950 6950
 Wire Wire Line
-	5150 7550 5350 7550
+	4950 6950 5150 6950
 Wire Wire Line
-	4350 7550 4550 7550
+	4150 6950 4350 6950
 Wire Wire Line
-	3550 7550 3750 7550
+	3350 6950 3550 6950
 Wire Wire Line
-	5650 7850 6450 7850
-Connection ~ 5650 7850
+	5450 6650 6250 6650
+Connection ~ 5450 6650
 Wire Wire Line
-	4850 7850 5650 7850
-Connection ~ 4850 7850
+	4650 6650 5450 6650
+Connection ~ 4650 6650
 Wire Wire Line
-	4050 7850 4850 7850
-Connection ~ 4050 7850
-Connection ~ 3250 7850
+	3850 6650 4650 6650
+Connection ~ 3850 6650
+Connection ~ 3050 6650
 Wire Wire Line
-	3250 7850 4050 7850
-Wire Wire Line
-	5650 7250 6450 7250
-Connection ~ 5650 7250
-Wire Wire Line
-	4850 7250 5650 7250
-Connection ~ 4850 7250
-Wire Wire Line
-	4050 7250 4850 7250
-Connection ~ 4050 7250
-Connection ~ 3250 7250
-Wire Wire Line
-	3250 7250 4050 7250
+	3050 6650 3850 6650
 $Comp
 L LED:SK6812MINI L6
 U 1 1 5D33FFE4
-P 6450 7550
-F 0 "L6" H 6475 7800 50  0000 L CNN
-F 1 "SK6812mini" H 6475 7300 50  0000 L CNN
-F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 6500 7250 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 6550 7175 50  0001 L TNN
-	1    6450 7550
+P 8850 6950
+F 0 "L6" H 8875 7200 50  0000 L CNN
+F 1 "SK6812mini" H 8875 6700 50  0000 L CNN
+F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 8900 6650 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 8950 6575 50  0001 L TNN
+	1    8850 6950
 	1    0    0    -1  
 $EndComp
 $Comp
 L LED:SK6812MINI L5
 U 1 1 5D33BE08
-P 5650 7550
-F 0 "L5" H 5675 7800 50  0000 L CNN
-F 1 "SK6812mini" H 5675 7300 50  0000 L CNN
-F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 5700 7250 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5750 7175 50  0001 L TNN
-	1    5650 7550
+P 7100 6950
+F 0 "L5" H 7125 7200 50  0000 L CNN
+F 1 "SK6812mini" H 7125 6700 50  0000 L CNN
+F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 7150 6650 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 7200 6575 50  0001 L TNN
+	1    7100 6950
 	1    0    0    -1  
 $EndComp
 $Comp
 L LED:SK6812MINI L4
 U 1 1 5D3368F0
-P 4850 7550
-F 0 "L4" H 4875 7800 50  0000 L CNN
-F 1 "SK6812mini" H 4875 7300 50  0000 L CNN
-F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 4900 7250 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4950 7175 50  0001 L TNN
-	1    4850 7550
+P 6250 6950
+F 0 "L4" H 6275 7200 50  0000 L CNN
+F 1 "SK6812mini" H 6275 6700 50  0000 L CNN
+F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 6300 6650 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 6350 6575 50  0001 L TNN
+	1    6250 6950
 	1    0    0    -1  
 $EndComp
 $Comp
 L LED:SK6812MINI L3
 U 1 1 5D3339D0
-P 4050 7550
-F 0 "L3" H 4075 7800 50  0000 L CNN
-F 1 "SK6812mini" H 4075 7300 50  0000 L CNN
-F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 4100 7250 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4150 7175 50  0001 L TNN
-	1    4050 7550
+P 4650 6950
+F 0 "L3" H 4675 7200 50  0000 L CNN
+F 1 "SK6812mini" H 4675 6700 50  0000 L CNN
+F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 4700 6650 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4750 6575 50  0001 L TNN
+	1    4650 6950
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	3250 7850 2450 7850
+	2250 6650 3050 6650
 Wire Wire Line
-	2450 7250 3250 7250
-Wire Wire Line
-	2750 7550 2950 7550
+	2550 6950 2750 6950
 $Comp
 L LED:SK6812MINI L2
 U 1 1 5D319DBE
-P 3250 7550
-F 0 "L2" H 3275 7800 50  0000 L CNN
-F 1 "SK6812mini" H 3275 7300 50  0000 L CNN
-F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 3300 7250 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3350 7175 50  0001 L TNN
-	1    3250 7550
+P 3850 6950
+F 0 "L2" H 3875 7200 50  0000 L CNN
+F 1 "SK6812mini" H 3875 6700 50  0000 L CNN
+F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 3900 6650 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3950 6575 50  0001 L TNN
+	1    3850 6950
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:GND #PWR0113
 U 1 1 5D31278F
-P 1950 7850
-F 0 "#PWR0113" H 1950 7600 50  0001 C CNN
-F 1 "GND" H 1955 7677 50  0000 C CNN
-F 2 "" H 1950 7850 50  0001 C CNN
-F 3 "" H 1950 7850 50  0001 C CNN
-	1    1950 7850
+P 1750 7300
+F 0 "#PWR0113" H 1750 7050 50  0001 C CNN
+F 1 "GND" H 1755 7127 50  0000 C CNN
+F 2 "" H 1750 7300 50  0001 C CNN
+F 3 "" H 1750 7300 50  0001 C CNN
+	1    1750 7300
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:VCC #PWR0114
 U 1 1 5D30E045
-P 1950 7250
-F 0 "#PWR0114" H 1950 7100 50  0001 C CNN
-F 1 "VCC" H 1967 7423 50  0000 C CNN
-F 2 "" H 1950 7250 50  0001 C CNN
-F 3 "" H 1950 7250 50  0001 C CNN
-	1    1950 7250
+P 1750 6650
+F 0 "#PWR0114" H 1750 6500 50  0001 C CNN
+F 1 "VCC" H 1767 6823 50  0000 C CNN
+F 2 "" H 1750 6650 50  0001 C CNN
+F 3 "" H 1750 6650 50  0001 C CNN
+	1    1750 6650
 	1    0    0    -1  
 $EndComp
 $Comp
 L LED:SK6812MINI L1
 U 1 1 5D2E8536
-P 2450 7550
-F 0 "L1" H 2475 7800 50  0000 L CNN
-F 1 "SK6812mini" H 2475 7300 50  0000 L CNN
-F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 2500 7250 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2550 7175 50  0001 L TNN
-	1    2450 7550
+P 2250 6950
+F 0 "L1" H 2275 7200 50  0000 L CNN
+F 1 "SK6812mini" H 2275 6700 50  0000 L CNN
+F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 2300 6650 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2350 6575 50  0001 L TNN
+	1    2250 6950
 	1    0    0    -1  
 $EndComp
 $Comp
 L LED:SK6812MINI L29
 U 1 1 5D5C8664
-P 5650 10150
-F 0 "L29" H 5675 10400 50  0000 L CNN
-F 1 "SK6812mini" H 5175 9900 50  0000 L CNN
-F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 5700 9850 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5750 9775 50  0001 L TNN
-	1    5650 10150
+P 6250 9750
+F 0 "L29" H 6275 10000 50  0000 L CNN
+F 1 "SK6812mini" H 5775 9500 50  0000 L CNN
+F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 6300 9450 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 6350 9375 50  0001 L TNN
+	1    6250 9750
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	5150 10150 5350 10150
-Wire Wire Line
-	4850 10450 5650 10450
-Connection ~ 4850 10450
-Wire Wire Line
-	1950 9850 2450 9850
-Connection ~ 2450 9850
-Wire Wire Line
-	2450 9850 3250 9850
-Connection ~ 3250 9850
-Wire Wire Line
-	3250 9850 4050 9850
-Connection ~ 4050 9850
-Wire Wire Line
-	4050 9850 4850 9850
-Connection ~ 4850 9850
-Wire Wire Line
-	4850 9850 5650 9850
-Wire Wire Line
-	1825 10150 2150 10150
-Wire Wire Line
-	1825 9500 1825 10150
-Wire Wire Line
-	2150 9500 1825 9500
-Text GLabel 2000 7550 0    50   Input ~ 0
+	4950 9750 5150 9750
+Text GLabel 1800 6950 0    50   Input ~ 0
 LED
 $Comp
 L Device:Jumper_NO_Small JP11
@@ -1814,7 +1586,7 @@ F 3 "" H 3750 3200 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	2000 7550 2150 7550
+	1800 6950 1950 6950
 $Comp
 L Device:Rotary_Encoder_Switch SW30
 U 1 1 5FAEDC34
@@ -1905,7 +1677,7 @@ Wire Wire Line
 	12400 4750 12650 4750
 Wire Wire Line
 	10950 4450 11000 4450
-Text GLabel 2450 1900 0    50   Input ~ 0
+Text GLabel 2450 2400 0    50   Input ~ 0
 Hand
 Text GLabel 2550 3250 0    50   Input ~ 0
 Hand
@@ -1965,160 +1737,50 @@ Wire Wire Line
 $Comp
 L LED:SK6812MINI L30
 U 1 1 5FBC8279
-P 7950 8850
-F 0 "L30" H 7975 9100 50  0000 L CNN
-F 1 "SK6812mini" H 7475 8600 50  0000 L CNN
-F 2 "Keyboard Library:SK6812MINI_Reversible" H 8000 8550 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 8050 8475 50  0001 L TNN
-	1    7950 8850
-	1    0    0    -1  
+P 7150 9050
+F 0 "L30" H 7175 9300 50  0000 L CNN
+F 1 "SK6812mini" H 6675 8800 50  0000 L CNN
+F 2 "Keyboard Library:SK6812MINI_Reversible" H 7200 8750 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 7250 8675 50  0001 L TNN
+	1    7150 9050
+	-1   0    0    1   
 $EndComp
 $Comp
 L LED:SK6812MINI L31
 U 1 1 5FBC951D
-P 8800 8850
-F 0 "L31" H 8825 9100 50  0000 L CNN
-F 1 "SK6812mini" H 8325 8600 50  0000 L CNN
-F 2 "Keyboard Library:SK6812MINI_Reversible" H 8850 8550 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 8900 8475 50  0001 L TNN
-	1    8800 8850
+P 5450 9750
+F 0 "L31" H 5475 10000 50  0000 L CNN
+F 1 "SK6812mini" H 4975 9500 50  0000 L CNN
+F 2 "Keyboard Library:SK6812MINI_Reversible" H 5500 9450 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5550 9375 50  0001 L TNN
+	1    5450 9750
 	1    0    0    -1  
 $EndComp
 $Comp
 L LED:SK6812MINI L32
 U 1 1 5FBC9BCE
-P 9700 8850
-F 0 "L32" H 9725 9100 50  0000 L CNN
-F 1 "SK6812mini" H 9225 8600 50  0000 L CNN
-F 2 "Keyboard Library:SK6812MINI_Reversible" H 9750 8550 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 9800 8475 50  0001 L TNN
-	1    9700 8850
-	1    0    0    -1  
+P 2250 9050
+F 0 "L32" H 2275 9300 50  0000 L CNN
+F 1 "SK6812mini" H 1775 8800 50  0000 L CNN
+F 2 "Keyboard Library:SK6812MINI_Reversible" H 2300 8750 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2350 8675 50  0001 L TNN
+	1    2250 9050
+	-1   0    0    1   
 $EndComp
 $Comp
 L LED:SK6812MINI L35
 U 1 1 5FBCA361
-P 9700 9650
-F 0 "L35" H 9725 9900 50  0000 L CNN
-F 1 "SK6812mini" H 9225 9400 50  0000 L CNN
-F 2 "Keyboard Library:SK6812MINI_Reversible" H 9750 9350 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 9800 9275 50  0001 L TNN
-	1    9700 9650
-	-1   0    0    1   
-$EndComp
-$Comp
-L LED:SK6812MINI L34
-U 1 1 5FBCB693
-P 8800 9650
-F 0 "L34" H 8825 9900 50  0000 L CNN
-F 1 "SK6812mini" H 8325 9400 50  0000 L CNN
-F 2 "Keyboard Library:SK6812MINI_Reversible" H 8850 9350 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 8900 9275 50  0001 L TNN
-	1    8800 9650
-	-1   0    0    1   
-$EndComp
-$Comp
-L LED:SK6812MINI L33
-U 1 1 5FBCBCC4
-P 7950 9650
-F 0 "L33" H 7975 9900 50  0000 L CNN
-F 1 "SK6812mini" H 7475 9400 50  0000 L CNN
-F 2 "Keyboard Library:SK6812MINI_Reversible" H 8000 9350 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 8050 9275 50  0001 L TNN
-	1    7950 9650
-	-1   0    0    1   
-$EndComp
-Wire Wire Line
-	8250 8850 8500 8850
-Wire Wire Line
-	9100 8850 9400 8850
-Wire Wire Line
-	10000 8850 10450 8850
-Wire Wire Line
-	10450 8850 10450 9650
-Wire Wire Line
-	10450 9650 10000 9650
-Wire Wire Line
-	9400 9650 9100 9650
-Wire Wire Line
-	8500 9650 8250 9650
-Wire Wire Line
-	7950 9150 7950 9250
-Wire Wire Line
-	8800 9150 8800 9250
-Wire Wire Line
-	9700 9150 9700 9250
-Wire Wire Line
-	9700 9250 8800 9250
-Connection ~ 9700 9250
-Wire Wire Line
-	9700 9250 9700 9350
-$Comp
-L power:GND #PWR0104
-U 1 1 5FCB5785
-P 7550 9250
-F 0 "#PWR0104" H 7550 9000 50  0001 C CNN
-F 1 "GND" H 7555 9077 50  0000 C CNN
-F 2 "" H 7550 9250 50  0001 C CNN
-F 3 "" H 7550 9250 50  0001 C CNN
-	1    7550 9250
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:VCC #PWR0115
-U 1 1 5FCC6FA8
-P 8400 8550
-F 0 "#PWR0115" H 8400 8400 50  0001 C CNN
-F 1 "VCC" H 8417 8723 50  0000 C CNN
-F 2 "" H 8400 8550 50  0001 C CNN
-F 3 "" H 8400 8550 50  0001 C CNN
-	1    8400 8550
+P 3050 6950
+F 0 "L35" H 3075 7200 50  0000 L CNN
+F 1 "SK6812mini" H 2575 6700 50  0000 L CNN
+F 2 "Keyboard Library:SK6812MINI_Reversible" H 3100 6650 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3150 6575 50  0001 L TNN
+	1    3050 6950
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	7950 8550 8400 8550
-Connection ~ 8400 8550
-Wire Wire Line
-	8400 8550 8800 8550
-Wire Wire Line
-	8800 8550 9700 8550
-Connection ~ 8800 8550
-Wire Wire Line
-	9700 9950 8800 9950
-Connection ~ 8800 9950
-Wire Wire Line
-	8800 9950 8350 9950
-$Comp
-L power:VCC #PWR0116
-U 1 1 5FCFD1AA
-P 8350 9950
-F 0 "#PWR0116" H 8350 9800 50  0001 C CNN
-F 1 "VCC" H 8367 10123 50  0000 C CNN
-F 2 "" H 8350 9950 50  0001 C CNN
-F 3 "" H 8350 9950 50  0001 C CNN
-	1    8350 9950
-	1    0    0    -1  
-$EndComp
-Connection ~ 8350 9950
-Wire Wire Line
-	8350 9950 7950 9950
-Wire Wire Line
-	7300 8850 7300 10150
-Wire Wire Line
-	5950 10150 7300 10150
-NoConn ~ 7650 9650
-Wire Wire Line
-	7300 8850 7650 8850
-Connection ~ 8800 9250
-Wire Wire Line
-	8800 9250 8800 9350
-Wire Wire Line
-	8800 9250 7950 9250
-Connection ~ 7950 9250
-Wire Wire Line
-	7950 9250 7950 9350
-Wire Wire Line
-	7950 9250 7550 9250
+	5750 9750 5950 9750
+NoConn ~ 6550 9750
 $Comp
 L Keyboard_Library:EVP-AKE31A RESET1
 U 1 1 5FC8B6BA
@@ -2474,16 +2136,16 @@ Wire Wire Line
 	7450 6050 7450 5950
 Wire Wire Line
 	7450 5650 7450 5750
-Text GLabel 6700 5750 0    50   Input ~ 0
+Text GLabel 6650 5950 0    50   Input ~ 0
 col5
 Wire Wire Line
-	6850 5750 6700 5750
+	6850 5750 6650 5750
 Text GLabel 7450 4250 1    50   Input ~ 0
 Alt
 Wire Wire Line
 	7450 4250 7450 4350
 Connection ~ 7450 4350
-Text GLabel 6650 5950 0    50   Input ~ 0
+Text GLabel 6650 5750 0    50   Input ~ 0
 Alt
 Wire Wire Line
 	6850 5950 6650 5950
@@ -2529,4 +2191,311 @@ F 3 "" H 7450 5850 50  0001 C CNN
 	1    7450 5850
 	0    -1   -1   0   
 $EndComp
+$Comp
+L LED:SK6812MINI L7
+U 1 1 5D3680DC
+P 2250 7650
+F 0 "L7" H 2125 7900 50  0000 L CNN
+F 1 "SK6812mini" H 1775 7400 50  0000 L CNN
+F 2 "Keyboard Library:SK6812MINI_Midmount_Reversible" H 2300 7350 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2350 7275 50  0001 L TNN
+	1    2250 7650
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	2250 7250 2250 7300
+Wire Wire Line
+	2250 7300 1750 7300
+Connection ~ 2250 7300
+Wire Wire Line
+	2250 7300 2250 7350
+Wire Wire Line
+	2250 7300 3050 7300
+Wire Wire Line
+	3050 7300 3050 7250
+Wire Wire Line
+	3050 7350 3050 7300
+Connection ~ 3050 7300
+Wire Wire Line
+	3850 7250 3850 7300
+Wire Wire Line
+	3850 7300 3050 7300
+Connection ~ 3850 7300
+Wire Wire Line
+	3850 7300 3850 7350
+Wire Wire Line
+	3850 7300 4650 7300
+Wire Wire Line
+	4650 7300 4650 7250
+Wire Wire Line
+	4650 7350 4650 7300
+Connection ~ 4650 7300
+Wire Wire Line
+	4650 7300 5450 7300
+Wire Wire Line
+	5450 7300 5450 7250
+Wire Wire Line
+	5450 7350 5450 7300
+Connection ~ 5450 7300
+Wire Wire Line
+	5450 7300 6250 7300
+Wire Wire Line
+	6250 7300 6250 7250
+Wire Wire Line
+	6250 7300 6250 7350
+Connection ~ 6250 7300
+Wire Wire Line
+	6550 6950 6800 6950
+Wire Wire Line
+	1950 8350 1600 8350
+Wire Wire Line
+	1600 8350 1600 7650
+Wire Wire Line
+	1600 7650 1950 7650
+Wire Wire Line
+	2250 7950 2250 8000
+Wire Wire Line
+	2250 8000 1750 8000
+Connection ~ 2250 8000
+Wire Wire Line
+	2250 8000 2250 8050
+Wire Wire Line
+	2250 8000 3050 8000
+Wire Wire Line
+	3050 8000 3050 7950
+Wire Wire Line
+	3050 8000 3050 8050
+Connection ~ 3050 8000
+Wire Wire Line
+	3050 8000 3850 8000
+Wire Wire Line
+	3850 8000 3850 7950
+Wire Wire Line
+	3850 8000 3850 8050
+Connection ~ 3850 8000
+Wire Wire Line
+	3850 8000 4650 8000
+Wire Wire Line
+	4650 8000 4650 7950
+Wire Wire Line
+	4650 8000 4650 8050
+Connection ~ 4650 8000
+Wire Wire Line
+	4650 8000 5450 8000
+Wire Wire Line
+	6250 8000 6250 7950
+Wire Wire Line
+	5450 8050 5450 8000
+Connection ~ 5450 8000
+Wire Wire Line
+	5450 8000 6250 8000
+Wire Wire Line
+	5450 8000 5450 7950
+Wire Wire Line
+	6250 8000 6250 8050
+Connection ~ 6250 8000
+Wire Wire Line
+	1750 8700 2250 8700
+Wire Wire Line
+	2250 8750 2250 8700
+Connection ~ 2250 8700
+Wire Wire Line
+	2250 8700 3050 8700
+Wire Wire Line
+	2250 8650 2250 8700
+Wire Wire Line
+	3050 8650 3050 8700
+Connection ~ 3050 8700
+Wire Wire Line
+	3050 8700 3850 8700
+Wire Wire Line
+	3050 8700 3050 8750
+Wire Wire Line
+	3850 8750 3850 8700
+Connection ~ 3850 8700
+Wire Wire Line
+	3850 8700 4650 8700
+Wire Wire Line
+	3850 8650 3850 8700
+Wire Wire Line
+	4650 8650 4650 8700
+Connection ~ 4650 8700
+Wire Wire Line
+	4650 8700 5450 8700
+Wire Wire Line
+	4650 8700 4650 8750
+Wire Wire Line
+	5450 8650 5450 8700
+Connection ~ 5450 8700
+Wire Wire Line
+	5450 8700 6250 8700
+Wire Wire Line
+	5450 8750 5450 8700
+Wire Wire Line
+	6250 8650 6250 8700
+Connection ~ 6250 8700
+Wire Wire Line
+	1750 9400 2250 9400
+Wire Wire Line
+	2250 9450 2250 9400
+Connection ~ 2250 9400
+Wire Wire Line
+	2250 9400 3050 9400
+Wire Wire Line
+	2250 9350 2250 9400
+Wire Wire Line
+	3050 9450 3050 9400
+Connection ~ 3050 9400
+Wire Wire Line
+	3050 9400 3850 9400
+Wire Wire Line
+	3050 9350 3050 9400
+Wire Wire Line
+	3850 9450 3850 9400
+Connection ~ 3850 9400
+Wire Wire Line
+	3850 9400 4650 9400
+Wire Wire Line
+	3850 9400 3850 9350
+Wire Wire Line
+	4650 9450 4650 9400
+Connection ~ 4650 9400
+Wire Wire Line
+	4650 9400 5450 9400
+Wire Wire Line
+	4650 9400 4650 9350
+Wire Wire Line
+	5450 9450 5450 9400
+Connection ~ 5450 9400
+Wire Wire Line
+	5450 9350 5450 9400
+Wire Wire Line
+	1950 9050 1550 9050
+Wire Wire Line
+	1550 9050 1550 9750
+Wire Wire Line
+	1550 9750 1950 9750
+Wire Wire Line
+	5450 10100 5450 10050
+Wire Wire Line
+	5450 10100 4650 10100
+Connection ~ 4650 10100
+Wire Wire Line
+	4650 10100 4650 10050
+Wire Wire Line
+	4650 10100 3850 10100
+Connection ~ 3850 10100
+Wire Wire Line
+	3850 10100 3850 10050
+Wire Wire Line
+	3850 10100 3050 10100
+Connection ~ 3050 10100
+Wire Wire Line
+	3050 10100 3050 10050
+Wire Wire Line
+	3050 10100 2250 10100
+Wire Wire Line
+	2250 10100 2250 10050
+Connection ~ 2250 10100
+Wire Wire Line
+	2250 10100 1750 10100
+Wire Wire Line
+	6250 6650 7100 6650
+Connection ~ 6250 6650
+Connection ~ 7100 6650
+Wire Wire Line
+	7100 6650 8000 6650
+Wire Wire Line
+	8000 7250 8000 7300
+Wire Wire Line
+	8000 7300 7100 7300
+Wire Wire Line
+	7100 7300 7100 7250
+Connection ~ 7100 7300
+Wire Wire Line
+	7100 7300 6250 7300
+Wire Wire Line
+	8550 6950 8300 6950
+Wire Wire Line
+	7700 6950 7400 6950
+$Comp
+L LED:SK6812MINI L33
+U 1 1 5FBCBCC4
+P 8000 6950
+F 0 "L33" H 8025 7200 50  0000 L CNN
+F 1 "SK6812mini" H 7525 6700 50  0000 L CNN
+F 2 "Keyboard Library:SK6812MINI_Reversible" H 8050 6650 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 8100 6575 50  0001 L TNN
+	1    8000 6950
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI L34
+U 1 1 5FBCB693
+P 5450 6950
+F 0 "L34" H 5475 7200 50  0000 L CNN
+F 1 "SK6812mini" H 4975 6700 50  0000 L CNN
+F 2 "Keyboard Library:SK6812MINI_Reversible" H 5500 6650 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5550 6575 50  0001 L TNN
+	1    5450 6950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8000 6650 8850 6650
+Connection ~ 8000 6650
+Wire Wire Line
+	8850 7300 8000 7300
+Connection ~ 8000 7300
+Wire Wire Line
+	9400 7650 9400 6950
+Wire Wire Line
+	9400 6950 9150 6950
+Wire Wire Line
+	6550 7650 9400 7650
+Wire Wire Line
+	8850 7250 8850 7300
+Wire Wire Line
+	5750 9050 5950 9050
+Wire Wire Line
+	6550 8350 8550 8350
+Wire Wire Line
+	7450 9050 7700 9050
+Wire Wire Line
+	6550 9050 6850 9050
+Wire Wire Line
+	6250 8700 6250 8750
+Wire Wire Line
+	7150 8700 7150 8750
+Wire Wire Line
+	8000 8700 8000 8750
+Wire Wire Line
+	5450 9400 6250 9400
+Wire Wire Line
+	6250 9400 6250 9350
+Wire Wire Line
+	6250 9400 7150 9400
+Wire Wire Line
+	7150 9400 7150 9350
+Connection ~ 6250 9400
+Wire Wire Line
+	7150 9400 8000 9400
+Wire Wire Line
+	8000 9400 8000 9350
+Connection ~ 7150 9400
+Connection ~ 7150 8700
+Wire Wire Line
+	6250 8700 7150 8700
+Wire Wire Line
+	7150 8700 8000 8700
+Wire Wire Line
+	8300 9050 8550 9050
+Wire Wire Line
+	8550 9050 8550 8350
+Wire Wire Line
+	6250 10050 6250 10100
+Wire Wire Line
+	6250 10100 5450 10100
+Connection ~ 5450 10100
+Wire Wire Line
+	6250 9450 6250 9400
 $EndSCHEMATC
