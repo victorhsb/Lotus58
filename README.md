@@ -6,7 +6,8 @@ Because of this it was renamed to Lotus58, referencing another flower much like 
 
 # Lotus 58 Glow
 
-[Lotus 58 Glow](TweetyDaBird.github.com//TweetyDaBird/Lotus58/Image/Glow_MX.jpg)
+![Lotus 58 Glow](/Image/Glow_MX.jpg?raw=true)
+
 
 - Layout very similar to the original Lily58 family
 - Per key RGB and RGB underglow
