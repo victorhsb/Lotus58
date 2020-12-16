@@ -1,24 +1,37 @@
-MIT License
+SPDX-FileCopyrightText: 2020 Markus Knutsson <markus.knutsson@tweety.se>
+SPDX-License-Identifier: CERN-OHL-S-2.0+
+
+Copyright: 2020 Markus Knutsson <markus.knutsson@tweety.se>
+Licence:   CERN-OHL-S-2.0+	
+
+This source describes Open Hardware and is licensed under the CERN-OHL-S v2+.
+
+You may redistribute and modify this source and make products using it under
+the terms of the CERN-OHL-S v2 or later revisions. 
+
+THIS SOURCE IS DISTRIBUTED "AS IS", WITHOUT ANY EXPRESS OR IMPLIED WARRANTY,
+INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A
+PARTICULAR PURPOSE.IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE 
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF 
+CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE 
+SOURCE OR THE USE OR OTHER DEALINGS IN THE SOURCE. 
+
+Please see the CERN-OHL-S v2 for applicable conditions. 
+https://ohwr.org/cern_ohl_s_v2.txt
+
+Source location: https://github.com/TweetyDaBird/
+
+As per CERN-OHL-S v2 section 4, should YOU produce hardware based on this
+source, YOU must where practicable maintain the SOURCE LOCATION visible
+on the circuit board of the hardware or other products made using this
+source.
+
+
+Lotus58 contains changes to the original product and / or the original product.
+Lily58 × qtkb Glow under the MIT License
 
 Copyright (c) 2019 Benjamin Davis
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+https://github.com/qtkb/Lily58-Glow
 
 Lily58 × qtkb Glow contains changes to the original product and / or the original product.
 Lily58 under the MIT license.
