@@ -14,17 +14,6 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L keebio:ProMicro U1
-U 1 1 5B722440
-P 3150 1850
-F 0 "U1" H 3150 2550 60  0000 C CNN
-F 1 "ProMicro" H 3150 1150 60  0000 C CNN
-F 2 "Keyboard Library:ProMicro_Reversible" H 3250 800 60  0001 C CNN
-F 3 "" H 3250 800 60  0000 C CNN
-	1    3150 1850
-	1    0    0    -1  
-$EndComp
-$Comp
 L Switch:SW_Push SW25
 U 1 1 5B722503
 P 7150 4350
@@ -58,17 +47,6 @@ F 3 "" H 7150 1750 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D D1
-U 1 1 5B7226E7
-P 7450 1900
-F 0 "D1" V 7496 1821 50  0000 R CNN
-F 1 "D" V 7405 1821 50  0000 R CNN
-F 2 "Keyboard Library:Diode_DO35_SOD123" H 7450 1900 50  0001 C CNN
-F 3 "" H 7450 1900 50  0001 C CNN
-	1    7450 1900
-	0    -1   -1   0   
-$EndComp
-$Comp
 L Switch:SW_Push SW2
 U 1 1 5B7227CD
 P 7950 1750
@@ -78,17 +56,6 @@ F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 7950 1750 50  0001 C CNN
 F 3 "" H 7950 1750 50  0000 C CNN
 	1    7950 1750
 	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D2
-U 1 1 5B722847
-P 8250 1900
-F 0 "D2" V 8296 1821 50  0000 R CNN
-F 1 "D" V 8205 1821 50  0000 R CNN
-F 2 "Keyboard Library:Diode_DO35_SOD123" H 8250 1900 50  0001 C CNN
-F 3 "" H 8250 1900 50  0001 C CNN
-	1    8250 1900
-	0    -1   -1   0   
 $EndComp
 $Comp
 L Switch:SW_Push SW3
@@ -179,17 +146,6 @@ F 3 "" H 11450 1900 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Switch:SW_Push SW8
-U 1 1 5B723388
-P 7950 2400
-F 0 "SW8" H 7950 2550 50  0000 C CNN
-F 1 "SW_PUSH" H 7950 2300 50  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 7950 2400 50  0001 C CNN
-F 3 "" H 7950 2400 50  0000 C CNN
-	1    7950 2400
-	1    0    0    -1  
-$EndComp
-$Comp
 L Switch:SW_Push SW9
 U 1 1 5B723731
 P 8750 2400
@@ -232,39 +188,6 @@ F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 11150 2400 50  0001 C CNN
 F 3 "" H 11150 2400 50  0000 C CNN
 	1    11150 2400
 	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW7
-U 1 1 5B723C9D
-P 7150 2400
-F 0 "SW7" H 7150 2550 50  0000 C CNN
-F 1 "SW_PUSH" H 7150 2300 50  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 7150 2400 50  0001 C CNN
-F 3 "" H 7150 2400 50  0000 C CNN
-	1    7150 2400
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D7
-U 1 1 5B723D94
-P 7450 2550
-F 0 "D7" V 7496 2471 50  0000 R CNN
-F 1 "D" V 7405 2471 50  0000 R CNN
-F 2 "Keyboard Library:Diode_DO35_SOD123" H 7450 2550 50  0001 C CNN
-F 3 "" H 7450 2550 50  0001 C CNN
-	1    7450 2550
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Device:D D8
-U 1 1 5B723E5F
-P 8250 2550
-F 0 "D8" V 8296 2471 50  0000 R CNN
-F 1 "D" V 8205 2471 50  0000 R CNN
-F 2 "Keyboard Library:Diode_DO35_SOD123" H 8250 2550 50  0001 C CNN
-F 3 "" H 8250 2550 50  0001 C CNN
-	1    8250 2550
-	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D D9
@@ -311,28 +234,6 @@ F 3 "" H 11450 2550 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Switch:SW_Push SW13
-U 1 1 5B7250AD
-P 7150 3050
-F 0 "SW13" H 7150 3200 50  0000 C CNN
-F 1 "SW_PUSH" H 7150 2950 50  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 7150 3050 50  0001 C CNN
-F 3 "" H 7150 3050 50  0000 C CNN
-	1    7150 3050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW14
-U 1 1 5B725133
-P 7950 3050
-F 0 "SW14" H 7950 3200 50  0000 C CNN
-F 1 "SW_PUSH" H 7950 2950 50  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 7950 3050 50  0001 C CNN
-F 3 "" H 7950 3050 50  0000 C CNN
-	1    7950 3050
-	1    0    0    -1  
-$EndComp
-$Comp
 L Switch:SW_Push SW15
 U 1 1 5B7251BF
 P 8750 3050
@@ -375,28 +276,6 @@ F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 11150 3050 50  0001 C CNN
 F 3 "" H 11150 3050 50  0000 C CNN
 	1    11150 3050
 	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D13
-U 1 1 5B7254EE
-P 7450 3200
-F 0 "D13" V 7496 3121 50  0000 R CNN
-F 1 "D" V 7405 3121 50  0000 R CNN
-F 2 "Keyboard Library:Diode_DO35_SOD123" H 7450 3200 50  0001 C CNN
-F 3 "" H 7450 3200 50  0001 C CNN
-	1    7450 3200
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Device:D D14
-U 1 1 5B7255FF
-P 8250 3200
-F 0 "D14" V 8296 3121 50  0000 R CNN
-F 1 "D" V 8205 3121 50  0000 R CNN
-F 2 "Keyboard Library:Diode_DO35_SOD123" H 8250 3200 50  0001 C CNN
-F 3 "" H 8250 3200 50  0001 C CNN
-	1    8250 3200
-	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D D15
@@ -485,50 +364,6 @@ F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 11150 3700 50  0001 C CNN
 F 3 "" H 11150 3700 50  0000 C CNN
 	1    11150 3700
 	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW20
-U 1 1 5B727256
-P 7950 3700
-F 0 "SW20" H 7950 3850 50  0000 C CNN
-F 1 "SW_PUSH" H 7950 3600 50  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 7950 3700 50  0001 C CNN
-F 3 "" H 7950 3700 50  0000 C CNN
-	1    7950 3700
-	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW19
-U 1 1 5B727312
-P 7150 3700
-F 0 "SW19" H 7150 3850 50  0000 C CNN
-F 1 "SW_PUSH" H 7150 3600 50  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 7150 3700 50  0001 C CNN
-F 3 "" H 7150 3700 50  0000 C CNN
-	1    7150 3700
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D19
-U 1 1 5B72767A
-P 7450 3850
-F 0 "D19" V 7496 3771 50  0000 R CNN
-F 1 "D" V 7405 3771 50  0000 R CNN
-F 2 "Keyboard Library:Diode_DO35_SOD123" H 7450 3850 50  0001 C CNN
-F 3 "" H 7450 3850 50  0001 C CNN
-	1    7450 3850
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Device:D D20
-U 1 1 5B7277CE
-P 8250 3850
-F 0 "D20" V 8296 3771 50  0000 R CNN
-F 1 "D" V 8205 3771 50  0000 R CNN
-F 2 "Keyboard Library:Diode_DO35_SOD123" H 8250 3850 50  0001 C CNN
-F 3 "" H 8250 3850 50  0001 C CNN
-	1    8250 3850
-	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D D21
@@ -662,12 +497,6 @@ F 3 "" H 10650 4500 50  0001 C CNN
 	1    10650 4500
 	0    -1   -1   0   
 $EndComp
-Text GLabel 6600 2050 0    50   Input ~ 0
-row0
-Text GLabel 6600 2700 0    50   Input ~ 0
-row1
-Text GLabel 6600 3350 0    50   Input ~ 0
-row2
 Text GLabel 6600 4000 0    50   Input ~ 0
 row3
 Text GLabel 6600 4650 0    50   Input ~ 0
@@ -686,16 +515,6 @@ Text GLabel 6950 1600 1    50   Input ~ 0
 col5
 Text GLabel 4050 1900 2    50   Input ~ 0
 col5
-Text GLabel 4050 2000 2    50   Input ~ 0
-col4
-Text GLabel 4050 2400 2    50   Input ~ 0
-col3
-Text GLabel 4050 2200 2    50   Input ~ 0
-col2
-Text GLabel 4050 2300 2    50   Input ~ 0
-col1
-Text GLabel 4050 2100 2    50   Input ~ 0
-col0
 $Comp
 L power:VCC #PWR04
 U 1 1 5B736B57
@@ -726,30 +545,6 @@ Text GLabel 2450 2200 0    50   Input ~ 0
 row3
 Text GLabel 2450 2300 0    50   Input ~ 0
 row4
-$Comp
-L power:VCC #PWR05
-U 1 1 5B739B47
-P 3600 3100
-F 0 "#PWR05" H 3600 2950 50  0001 C CNN
-F 1 "VCC" H 3600 3250 50  0000 C CNN
-F 2 "" H 3600 3100 50  0001 C CNN
-F 3 "" H 3600 3100 50  0001 C CNN
-	1    3600 3100
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Device:R R2
-U 1 1 5B73A034
-P 3750 3000
-F 0 "R2" V 3850 3000 50  0000 C BNN
-F 1 "R" V 3750 3000 50  0000 C CNN
-F 2 "Keyboard Library:RESISTOR_Reversible" V 3680 3000 50  0001 C CNN
-F 3 "" H 3750 3000 50  0001 C CNN
-	1    3750 3000
-	0    -1   -1   0   
-$EndComp
-Text GLabel 3900 3200 2    50   Input ~ 0
-SDA
 $Comp
 L power:GND #PWR010
 U 1 1 5B74C10F
@@ -862,8 +657,6 @@ F 3 "" H 2500 6150 60  0000 C CNN
 	1    2500 6150
 	1    0    0    -1  
 $EndComp
-Text GLabel 3900 3000 2    50   Input ~ 0
-SCL
 $Comp
 L power:GND #PWR0101
 U 1 1 5B8CD05E
@@ -890,41 +683,34 @@ Wire Wire Line
 	2450 1500 2450 1600
 Wire Wire Line
 	2450 1600 2200 1600
-Connection ~ 2450 1600
 $Comp
 L power:GND #PWR02
 U 1 1 5B8F3218
-P 3400 4200
-F 0 "#PWR02" H 3400 3950 50  0001 C CNN
-F 1 "GND" H 3405 4027 50  0000 C CNN
-F 2 "" H 3400 4200 50  0001 C CNN
-F 3 "" H 3400 4200 50  0001 C CNN
-	1    3400 4200
+P 3400 4100
+F 0 "#PWR02" H 3400 3850 50  0001 C CNN
+F 1 "GND" H 3405 3927 50  0000 C CNN
+F 2 "" H 3400 4100 50  0001 C CNN
+F 3 "" H 3400 4100 50  0001 C CNN
+	1    3400 4100
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:VCC #PWR01
 U 1 1 5B8F42DA
-P 3200 4300
-F 0 "#PWR01" H 3200 4150 50  0001 C CNN
-F 1 "VCC" H 3217 4473 50  0000 C CNN
-F 2 "" H 3200 4300 50  0001 C CNN
-F 3 "" H 3200 4300 50  0001 C CNN
-	1    3200 4300
+P 3200 4200
+F 0 "#PWR01" H 3200 4050 50  0001 C CNN
+F 1 "VCC" H 3217 4373 50  0000 C CNN
+F 2 "" H 3200 4200 50  0001 C CNN
+F 3 "" H 3200 4200 50  0001 C CNN
+	1    3200 4200
 	-1   0    0    1   
 $EndComp
 Text GLabel 2450 1400 0    50   Input ~ 0
 DATA
-Text GLabel 4050 4150 2    50   Input ~ 0
+Text GLabel 4050 4050 2    50   Input ~ 0
 DATA
-Text Label 3850 2200 0    50   ~ 0
-MISO
-Text Label 3850 2300 0    50   ~ 0
-MOSI
 Text Label 3850 1500 0    50   ~ 0
 RST
-Text Label 3850 2100 0    50   ~ 0
-SCK
 $Comp
 L Connector_Generic:Conn_01x04 P4
 U 1 1 5BE5032C
@@ -1551,40 +1337,29 @@ LED
 $Comp
 L Device:Jumper_NO_Small JP11
 U 1 1 5FB142F4
-P 3800 4150
-F 0 "JP11" H 3800 4100 50  0000 C CNN
-F 1 "Jumper_NO_Small" H 3800 4244 50  0001 C CNN
-F 2 "Keyboard Library:Jumper_Mini" H 3800 4150 50  0001 C CNN
-F 3 "~" H 3800 4150 50  0001 C CNN
-	1    3800 4150
+P 3800 4050
+F 0 "JP11" H 3800 4000 50  0000 C CNN
+F 1 "Jumper_NO_Small" H 3800 4144 50  0001 C CNN
+F 2 "Keyboard Library:Jumper_Mini" H 3800 4050 50  0001 C CNN
+F 3 "~" H 3800 4050 50  0001 C CNN
+	1    3800 4050
 	1    0    0    1   
 $EndComp
 Wire Wire Line
-	3900 4150 4050 4150
+	3900 4050 4050 4050
 $Comp
 L Device:Jumper_NO_Small JP9
 U 1 1 5FB375D5
-P 3800 4300
-F 0 "JP9" H 3800 4250 50  0000 C CNN
-F 1 "Jumper_NO_Small" H 3800 4394 50  0001 C CNN
-F 2 "Keyboard Library:Jumper_Mini" H 3800 4300 50  0001 C CNN
-F 3 "~" H 3800 4300 50  0001 C CNN
-	1    3800 4300
+P 3800 4200
+F 0 "JP9" H 3800 4150 50  0000 C CNN
+F 1 "Jumper_NO_Small" H 3800 4294 50  0001 C CNN
+F 2 "Keyboard Library:Jumper_Mini" H 3800 4200 50  0001 C CNN
+F 3 "~" H 3800 4200 50  0001 C CNN
+	1    3800 4200
 	-1   0    0    1   
 $EndComp
-Text GLabel 4050 4300 2    50   Input ~ 0
+Text GLabel 4050 4200 2    50   Input ~ 0
 SCL
-$Comp
-L Device:R R1
-U 1 1 5B739F4A
-P 3750 3200
-F 0 "R1" V 3850 3200 50  0000 C BNN
-F 1 "R" V 3750 3200 50  0000 C CNN
-F 2 "Keyboard Library:RESISTOR_Reversible" V 3680 3200 50  0001 C CNN
-F 3 "" H 3750 3200 50  0001 C CNN
-	1    3750 3200
-	0    -1   -1   0   
-$EndComp
 Wire Wire Line
 	1800 6950 1950 6950
 $Comp
@@ -1660,13 +1435,13 @@ Wire Wire Line
 	12650 4950 12650 4750
 Connection ~ 12650 4750
 Wire Wire Line
-	4050 4300 3900 4300
+	4050 4200 3900 4200
 Wire Wire Line
-	3700 4150 3550 4150
+	3700 4050 3550 4050
 Wire Wire Line
-	3550 4150 3550 4300
+	3550 4050 3550 4200
 Wire Wire Line
-	3550 4300 3700 4300
+	3550 4200 3700 4200
 Text GLabel 4050 1700 2    50   Input ~ 0
 Enc0
 Text GLabel 4050 1800 2    50   Input ~ 0
@@ -1681,59 +1456,10 @@ Text GLabel 2450 2400 0    50   Input ~ 0
 Hand
 Text GLabel 2550 3250 0    50   Input ~ 0
 Hand
-$Comp
-L Device:Jumper_NO_Small JP12
-U 1 1 5FB1C808
-P 2800 3250
-F 0 "JP12" H 2800 3200 50  0000 C CNN
-F 1 "LH" H 2800 3344 50  0001 C CNN
-F 2 "Keyboard Library:Jumper_Mini" H 2800 3250 50  0001 C CNN
-F 3 "~" H 2800 3250 50  0001 C CNN
-	1    2800 3250
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:Jumper_NO_Small JP13
-U 1 1 5FB1CEEF
-P 2800 3400
-F 0 "JP13" H 2800 3350 50  0000 C CNN
-F 1 "RH" H 2800 3494 50  0001 C CNN
-F 2 "Keyboard Library:Jumper_Mini" H 2800 3400 50  0001 C CNN
-F 3 "~" H 2800 3400 50  0001 C CNN
-	1    2800 3400
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR07
-U 1 1 5FB1D13F
-P 3000 3400
-F 0 "#PWR07" H 3000 3150 50  0001 C CNN
-F 1 "GND" H 3005 3227 50  0000 C CNN
-F 2 "" H 3000 3400 50  0001 C CNN
-F 3 "" H 3000 3400 50  0001 C CNN
-	1    3000 3400
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:VCC #PWR06
-U 1 1 5FB1D7A0
-P 3000 3250
-F 0 "#PWR06" H 3000 3100 50  0001 C CNN
-F 1 "VCC" H 3000 3400 50  0000 C CNN
-F 2 "" H 3000 3250 50  0001 C CNN
-F 3 "" H 3000 3250 50  0001 C CNN
-	1    3000 3250
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	2550 3250 2700 3250
 Wire Wire Line
 	2700 3400 2700 3250
-Connection ~ 2700 3250
-Wire Wire Line
-	2900 3250 3000 3250
-Wire Wire Line
-	3000 3400 2900 3400
 $Comp
 L LED:SK6812MINI L30
 U 1 1 5FBC8279
@@ -1835,16 +1561,6 @@ Wire Wire Line
 Wire Wire Line
 	3850 1900 4050 1900
 Wire Wire Line
-	3850 2000 4050 2000
-Wire Wire Line
-	3850 2100 4050 2100
-Wire Wire Line
-	3850 2200 4050 2200
-Wire Wire Line
-	3850 2300 4050 2300
-Wire Wire Line
-	3850 2400 4050 2400
-Wire Wire Line
 	3850 1400 4200 1400
 Wire Wire Line
 	3850 1600 4200 1600
@@ -1859,72 +1575,19 @@ Wire Wire Line
 Wire Wire Line
 	10950 1600 10950 1750
 Wire Wire Line
-	3600 3000 3600 3100
-Wire Wire Line
 	7750 1600 7750 1750
-Wire Wire Line
-	6600 2700 7450 2700
 Wire Wire Line
 	10150 1600 10150 1750
 Wire Wire Line
-	6600 4000 7450 4000
-Wire Wire Line
 	6950 1600 6950 1750
 Wire Wire Line
-	6600 2050 7450 2050
-Wire Wire Line
-	6600 3350 7450 3350
-Wire Wire Line
 	6600 4650 7450 4650
-Connection ~ 3600 3100
-Wire Wire Line
-	3600 3100 3600 3200
-Connection ~ 7450 2050
-Wire Wire Line
-	7450 2050 8250 2050
 Wire Wire Line
 	7450 1750 7350 1750
 Wire Wire Line
 	8150 1750 8250 1750
-Connection ~ 8250 2050
-Wire Wire Line
-	8250 2050 9050 2050
 Wire Wire Line
 	7350 4350 7450 4350
-Connection ~ 6950 1750
-Wire Wire Line
-	6950 1750 6950 2400
-Connection ~ 6950 2400
-Wire Wire Line
-	6950 2400 6950 3050
-Connection ~ 6950 3050
-Wire Wire Line
-	6950 3050 6950 3700
-Connection ~ 6950 3700
-Wire Wire Line
-	6950 3700 6950 4350
-Connection ~ 7750 1750
-Wire Wire Line
-	7750 1750 7750 2400
-Connection ~ 7750 2400
-Wire Wire Line
-	7750 2400 7750 3050
-Connection ~ 7750 3050
-Wire Wire Line
-	7750 3050 7750 3700
-Connection ~ 7750 3700
-Wire Wire Line
-	7750 3700 7750 4350
-Wire Wire Line
-	7450 3700 7350 3700
-Wire Wire Line
-	7350 3050 7450 3050
-Wire Wire Line
-	7450 2400 7350 2400
-Wire Wire Line
-	8250 2400 8150 2400
-Wire Wire Line
-	8150 3050 8250 3050
 Connection ~ 8550 1750
 Wire Wire Line
 	8550 1750 8550 2400
@@ -1979,7 +1642,6 @@ Wire Wire Line
 	8950 2400 9050 2400
 Wire Wire Line
 	8950 3050 9050 3050
-Connection ~ 9050 2050
 Wire Wire Line
 	9050 2050 9850 2050
 Connection ~ 9850 2050
@@ -2013,30 +1675,8 @@ Wire Wire Line
 Connection ~ 9850 2700
 Wire Wire Line
 	9850 2700 10650 2700
-Connection ~ 9050 2700
 Wire Wire Line
 	9050 2700 9850 2700
-Connection ~ 8250 2700
-Wire Wire Line
-	8250 2700 9050 2700
-Connection ~ 7450 2700
-Wire Wire Line
-	7450 2700 8250 2700
-Connection ~ 7450 3350
-Wire Wire Line
-	7450 3350 8250 3350
-Connection ~ 7450 4000
-Wire Wire Line
-	7450 4000 8250 4000
-Connection ~ 8250 4000
-Wire Wire Line
-	8250 4000 9050 4000
-Wire Wire Line
-	8250 3700 8150 3700
-Connection ~ 8250 3350
-Wire Wire Line
-	8250 3350 9050 3350
-Connection ~ 9050 3350
 Wire Wire Line
 	9050 3350 9850 3350
 Wire Wire Line
@@ -2087,40 +1727,40 @@ Wire Wire Line
 $Comp
 L Connector:AudioJack4 J1
 U 1 1 600465CE
-P 2800 4100
-F 0 "J1" H 2757 4425 50  0000 C CNN
-F 1 "AudioJack4" H 2757 4334 50  0000 C CNN
-F 2 "Keyboard Library:MJ-4PP-9_alim" H 2800 4100 50  0001 C CNN
-F 3 "~" H 2800 4100 50  0001 C CNN
-	1    2800 4100
+P 2800 4000
+F 0 "J1" H 2757 4325 50  0000 C CNN
+F 1 "AudioJack4" H 2757 4234 50  0000 C CNN
+F 2 "Keyboard Library:MJ-4PP-9_alim" H 2800 4000 50  0001 C CNN
+F 3 "~" H 2800 4000 50  0001 C CNN
+	1    2800 4000
 	1    0    0    -1  
 $EndComp
-Text GLabel 4050 4000 2    50   Input ~ 0
+Text GLabel 4050 3900 2    50   Input ~ 0
 SDA
 Wire Wire Line
-	4050 4000 3900 4000
+	4050 3900 3900 3900
 $Comp
 L Device:Jumper_NO_Small JP10
 U 1 1 5FB38C8B
-P 3800 4000
-F 0 "JP10" H 3800 3950 50  0000 C CNN
-F 1 "Jumper_NO_Small" H 3800 4094 50  0001 C CNN
-F 2 "Keyboard Library:Jumper_Mini" H 3800 4000 50  0001 C CNN
-F 3 "~" H 3800 4000 50  0001 C CNN
-	1    3800 4000
+P 3800 3900
+F 0 "JP10" H 3800 3850 50  0000 C CNN
+F 1 "Jumper_NO_Small" H 3800 3994 50  0001 C CNN
+F 2 "Keyboard Library:Jumper_Mini" H 3800 3900 50  0001 C CNN
+F 3 "~" H 3800 3900 50  0001 C CNN
+	1    3800 3900
 	1    0    0    1   
 $EndComp
 Wire Wire Line
-	3000 4000 3700 4000
+	3000 3900 3700 3900
 Wire Wire Line
-	3550 4150 3550 4100
-Connection ~ 3550 4150
+	3550 4050 3550 4000
+Connection ~ 3550 4050
 Wire Wire Line
-	3000 4100 3550 4100
+	3000 4000 3550 4000
 Wire Wire Line
-	3000 4200 3400 4200
+	3000 4100 3400 4100
 Wire Wire Line
-	3000 4300 3200 4300
+	3000 4200 3200 4200
 $Comp
 L Device:Rotary_Encoder_Switch SW31
 U 1 1 5FD9F16C
@@ -2498,4 +2138,364 @@ Wire Wire Line
 Connection ~ 5450 10100
 Wire Wire Line
 	6250 9450 6250 9400
+Connection ~ 9050 3350
+Wire Wire Line
+	8250 4000 9050 4000
+Connection ~ 8250 4000
+Connection ~ 7450 4000
+Connection ~ 9050 2700
+Connection ~ 9050 2050
+Connection ~ 7750 1750
+Connection ~ 6950 1750
+Wire Wire Line
+	7450 4000 8250 4000
+Wire Wire Line
+	6600 4000 7450 4000
+Connection ~ 2700 3250
+Connection ~ 2450 1600
+Wire Wire Line
+	8250 3350 9050 3350
+Connection ~ 8250 3350
+Wire Wire Line
+	8250 3700 8150 3700
+Wire Wire Line
+	7450 3350 8250 3350
+Connection ~ 7450 3350
+Wire Wire Line
+	7450 2700 8250 2700
+Connection ~ 7450 2700
+Wire Wire Line
+	8250 2700 9050 2700
+Connection ~ 8250 2700
+Wire Wire Line
+	8150 3050 8250 3050
+Wire Wire Line
+	8250 2400 8150 2400
+Wire Wire Line
+	7450 2400 7350 2400
+Wire Wire Line
+	7350 3050 7450 3050
+Wire Wire Line
+	7450 3700 7350 3700
+Wire Wire Line
+	7750 3700 7750 4350
+Connection ~ 7750 3700
+Wire Wire Line
+	7750 3050 7750 3700
+Connection ~ 7750 3050
+Wire Wire Line
+	7750 2400 7750 3050
+Connection ~ 7750 2400
+Wire Wire Line
+	7750 1750 7750 2400
+Wire Wire Line
+	6950 3700 6950 4350
+Connection ~ 6950 3700
+Wire Wire Line
+	6950 3050 6950 3700
+Connection ~ 6950 3050
+Wire Wire Line
+	6950 2400 6950 3050
+Connection ~ 6950 2400
+Wire Wire Line
+	6950 1750 6950 2400
+Wire Wire Line
+	8250 2050 9050 2050
+Connection ~ 8250 2050
+Wire Wire Line
+	7450 2050 8250 2050
+Connection ~ 7450 2050
+Wire Wire Line
+	3600 3100 3600 3200
+Connection ~ 3600 3100
+Wire Wire Line
+	6600 3350 7450 3350
+Wire Wire Line
+	6600 2050 7450 2050
+Wire Wire Line
+	6600 2700 7450 2700
+Wire Wire Line
+	3600 3000 3600 3100
+Wire Wire Line
+	3850 2400 4050 2400
+Wire Wire Line
+	3850 2300 4050 2300
+Wire Wire Line
+	3850 2200 4050 2200
+Wire Wire Line
+	3850 2100 4050 2100
+Wire Wire Line
+	3850 2000 4050 2000
+Wire Wire Line
+	3000 3400 2900 3400
+Wire Wire Line
+	2900 3250 3000 3250
+$Comp
+L power:VCC #PWR06
+U 1 1 5FB1D7A0
+P 3000 3250
+F 0 "#PWR06" H 3000 3100 50  0001 C CNN
+F 1 "VCC" H 3000 3400 50  0000 C CNN
+F 2 "" H 3000 3250 50  0001 C CNN
+F 3 "" H 3000 3250 50  0001 C CNN
+	1    3000 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR07
+U 1 1 5FB1D13F
+P 3000 3400
+F 0 "#PWR07" H 3000 3150 50  0001 C CNN
+F 1 "GND" H 3005 3227 50  0000 C CNN
+F 2 "" H 3000 3400 50  0001 C CNN
+F 3 "" H 3000 3400 50  0001 C CNN
+	1    3000 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Jumper_NO_Small JP13
+U 1 1 5FB1CEEF
+P 2800 3400
+F 0 "JP13" H 2800 3350 50  0000 C CNN
+F 1 "RH" H 2800 3494 50  0001 C CNN
+F 2 "Keyboard Library:Jumper_Mini" H 2800 3400 50  0001 C CNN
+F 3 "~" H 2800 3400 50  0001 C CNN
+	1    2800 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Jumper_NO_Small JP12
+U 1 1 5FB1C808
+P 2800 3250
+F 0 "JP12" H 2800 3200 50  0000 C CNN
+F 1 "LH" H 2800 3344 50  0001 C CNN
+F 2 "Keyboard Library:Jumper_Mini" H 2800 3250 50  0001 C CNN
+F 3 "~" H 2800 3250 50  0001 C CNN
+	1    2800 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R1
+U 1 1 5B739F4A
+P 3750 3200
+F 0 "R1" V 3850 3200 50  0000 C BNN
+F 1 "R" V 3750 3200 50  0000 C CNN
+F 2 "Keyboard Library:RESISTOR_Reversible" V 3680 3200 50  0001 C CNN
+F 3 "" H 3750 3200 50  0001 C CNN
+	1    3750 3200
+	0    -1   -1   0   
+$EndComp
+Text Label 3850 2100 0    50   ~ 0
+SCK
+Text Label 3850 2300 0    50   ~ 0
+MOSI
+Text Label 3850 2200 0    50   ~ 0
+MISO
+Text GLabel 3900 3000 2    50   Input ~ 0
+SCL
+Text GLabel 3900 3200 2    50   Input ~ 0
+SDA
+$Comp
+L Device:R R2
+U 1 1 5B73A034
+P 3750 3000
+F 0 "R2" V 3850 3000 50  0000 C BNN
+F 1 "R" V 3750 3000 50  0000 C CNN
+F 2 "Keyboard Library:RESISTOR_Reversible" V 3680 3000 50  0001 C CNN
+F 3 "" H 3750 3000 50  0001 C CNN
+	1    3750 3000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:VCC #PWR05
+U 1 1 5B739B47
+P 3600 3100
+F 0 "#PWR05" H 3600 2950 50  0001 C CNN
+F 1 "VCC" H 3600 3250 50  0000 C CNN
+F 2 "" H 3600 3100 50  0001 C CNN
+F 3 "" H 3600 3100 50  0001 C CNN
+	1    3600 3100
+	0    -1   -1   0   
+$EndComp
+Text GLabel 4050 2100 2    50   Input ~ 0
+col0
+Text GLabel 4050 2300 2    50   Input ~ 0
+col1
+Text GLabel 4050 2200 2    50   Input ~ 0
+col2
+Text GLabel 4050 2400 2    50   Input ~ 0
+col3
+Text GLabel 4050 2000 2    50   Input ~ 0
+col4
+Text GLabel 6600 3350 0    50   Input ~ 0
+row2
+Text GLabel 6600 2700 0    50   Input ~ 0
+row1
+Text GLabel 6600 2050 0    50   Input ~ 0
+row0
+$Comp
+L Device:D D20
+U 1 1 5B7277CE
+P 8250 3850
+F 0 "D20" V 8296 3771 50  0000 R CNN
+F 1 "D" V 8205 3771 50  0000 R CNN
+F 2 "Keyboard Library:Diode_DO35_SOD123" H 8250 3850 50  0001 C CNN
+F 3 "" H 8250 3850 50  0001 C CNN
+	1    8250 3850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D19
+U 1 1 5B72767A
+P 7450 3850
+F 0 "D19" V 7496 3771 50  0000 R CNN
+F 1 "D" V 7405 3771 50  0000 R CNN
+F 2 "Keyboard Library:Diode_DO35_SOD123" H 7450 3850 50  0001 C CNN
+F 3 "" H 7450 3850 50  0001 C CNN
+	1    7450 3850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW19
+U 1 1 5B727312
+P 7150 3700
+F 0 "SW19" H 7150 3850 50  0000 C CNN
+F 1 "SW_PUSH" H 7150 3600 50  0000 C CNN
+F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 7150 3700 50  0001 C CNN
+F 3 "" H 7150 3700 50  0000 C CNN
+	1    7150 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW20
+U 1 1 5B727256
+P 7950 3700
+F 0 "SW20" H 7950 3850 50  0000 C CNN
+F 1 "SW_PUSH" H 7950 3600 50  0000 C CNN
+F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 7950 3700 50  0001 C CNN
+F 3 "" H 7950 3700 50  0000 C CNN
+	1    7950 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D14
+U 1 1 5B7255FF
+P 8250 3200
+F 0 "D14" V 8296 3121 50  0000 R CNN
+F 1 "D" V 8205 3121 50  0000 R CNN
+F 2 "Keyboard Library:Diode_DO35_SOD123" H 8250 3200 50  0001 C CNN
+F 3 "" H 8250 3200 50  0001 C CNN
+	1    8250 3200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D13
+U 1 1 5B7254EE
+P 7450 3200
+F 0 "D13" V 7496 3121 50  0000 R CNN
+F 1 "D" V 7405 3121 50  0000 R CNN
+F 2 "Keyboard Library:Diode_DO35_SOD123" H 7450 3200 50  0001 C CNN
+F 3 "" H 7450 3200 50  0001 C CNN
+	1    7450 3200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW14
+U 1 1 5B725133
+P 7950 3050
+F 0 "SW14" H 7950 3200 50  0000 C CNN
+F 1 "SW_PUSH" H 7950 2950 50  0000 C CNN
+F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 7950 3050 50  0001 C CNN
+F 3 "" H 7950 3050 50  0000 C CNN
+	1    7950 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW13
+U 1 1 5B7250AD
+P 7150 3050
+F 0 "SW13" H 7150 3200 50  0000 C CNN
+F 1 "SW_PUSH" H 7150 2950 50  0000 C CNN
+F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 7150 3050 50  0001 C CNN
+F 3 "" H 7150 3050 50  0000 C CNN
+	1    7150 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D8
+U 1 1 5B723E5F
+P 8250 2550
+F 0 "D8" V 8296 2471 50  0000 R CNN
+F 1 "D" V 8205 2471 50  0000 R CNN
+F 2 "Keyboard Library:Diode_DO35_SOD123" H 8250 2550 50  0001 C CNN
+F 3 "" H 8250 2550 50  0001 C CNN
+	1    8250 2550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D7
+U 1 1 5B723D94
+P 7450 2550
+F 0 "D7" V 7496 2471 50  0000 R CNN
+F 1 "D" V 7405 2471 50  0000 R CNN
+F 2 "Keyboard Library:Diode_DO35_SOD123" H 7450 2550 50  0001 C CNN
+F 3 "" H 7450 2550 50  0001 C CNN
+	1    7450 2550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW7
+U 1 1 5B723C9D
+P 7150 2400
+F 0 "SW7" H 7150 2550 50  0000 C CNN
+F 1 "SW_PUSH" H 7150 2300 50  0000 C CNN
+F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 7150 2400 50  0001 C CNN
+F 3 "" H 7150 2400 50  0000 C CNN
+	1    7150 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW8
+U 1 1 5B723388
+P 7950 2400
+F 0 "SW8" H 7950 2550 50  0000 C CNN
+F 1 "SW_PUSH" H 7950 2300 50  0000 C CNN
+F 2 "keyswitches:Kailh_socket_MX_reversible_RGB" H 7950 2400 50  0001 C CNN
+F 3 "" H 7950 2400 50  0000 C CNN
+	1    7950 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D2
+U 1 1 5B722847
+P 8250 1900
+F 0 "D2" V 8296 1821 50  0000 R CNN
+F 1 "D" V 8205 1821 50  0000 R CNN
+F 2 "Keyboard Library:Diode_DO35_SOD123" H 8250 1900 50  0001 C CNN
+F 3 "" H 8250 1900 50  0001 C CNN
+	1    8250 1900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D1
+U 1 1 5B7226E7
+P 7450 1900
+F 0 "D1" V 7496 1821 50  0000 R CNN
+F 1 "D" V 7405 1821 50  0000 R CNN
+F 2 "Keyboard Library:Diode_DO35_SOD123" H 7450 1900 50  0001 C CNN
+F 3 "" H 7450 1900 50  0001 C CNN
+	1    7450 1900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keebio:ProMicro U1
+U 1 1 5B722440
+P 3150 1850
+F 0 "U1" H 3150 2550 60  0000 C CNN
+F 1 "ProMicro" H 3150 1150 60  0000 C CNN
+F 2 "Keyboard Library:ProMicro_Reversible" H 3250 800 60  0001 C CNN
+F 3 "" H 3250 800 60  0000 C CNN
+	1    3150 1850
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
