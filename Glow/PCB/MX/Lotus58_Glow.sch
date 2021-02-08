@@ -903,7 +903,7 @@ Wire Wire Line
 Wire Wire Line
 	3350 9750 3550 9750
 $Comp
-L LED:SK6812MINI L28
+L Keyboard_Library:SK6812MINI L28
 U 1 1 5D44C2D1
 P 4650 9750
 F 0 "L28" H 4675 10000 50  0000 L CNN
@@ -914,7 +914,7 @@ F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:SK6812MINI L27
+L Keyboard_Library:SK6812MINI L27
 U 1 1 5D44C2CB
 P 3850 9750
 F 0 "L27" H 3875 10000 50  0000 L CNN
@@ -927,7 +927,7 @@ $EndComp
 Wire Wire Line
 	2550 9750 2750 9750
 $Comp
-L LED:SK6812MINI L26
+L Keyboard_Library:SK6812MINI L26
 U 1 1 5D44C2C0
 P 3050 9750
 F 0 "L26" H 3075 10000 50  0000 L CNN
@@ -960,7 +960,7 @@ F 3 "" H 1750 9400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:SK6812MINI L25
+L Keyboard_Library:SK6812MINI L25
 U 1 1 5D44C2AB
 P 2250 9750
 F 0 "L25" H 2275 10000 50  0000 L CNN
@@ -977,7 +977,7 @@ Wire Wire Line
 Wire Wire Line
 	3350 9050 3550 9050
 $Comp
-L LED:SK6812MINI L24
+L Keyboard_Library:SK6812MINI L24
 U 1 1 5D3B3CCB
 P 8000 9050
 F 0 "L24" H 7875 9300 50  0000 L CNN
@@ -988,7 +988,7 @@ F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
 	-1   0    0    1   
 $EndComp
 $Comp
-L LED:SK6812MINI L23
+L Keyboard_Library:SK6812MINI L23
 U 1 1 5D3B3CC5
 P 6250 9050
 F 0 "L23" H 6125 9300 50  0000 L CNN
@@ -999,7 +999,7 @@ F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
 	-1   0    0    1   
 $EndComp
 $Comp
-L LED:SK6812MINI L22
+L Keyboard_Library:SK6812MINI L22
 U 1 1 5D3B3CBF
 P 5450 9050
 F 0 "L22" H 5325 9300 50  0000 L CNN
@@ -1010,7 +1010,7 @@ F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
 	-1   0    0    1   
 $EndComp
 $Comp
-L LED:SK6812MINI L21
+L Keyboard_Library:SK6812MINI L21
 U 1 1 5D3B3CB9
 P 4650 9050
 F 0 "L21" H 4525 9300 50  0000 L CNN
@@ -1023,7 +1023,7 @@ $EndComp
 Wire Wire Line
 	2550 9050 2750 9050
 $Comp
-L LED:SK6812MINI L20
+L Keyboard_Library:SK6812MINI L20
 U 1 1 5D3B3CB0
 P 3850 9050
 F 0 "L20" H 3725 9300 50  0000 L CNN
@@ -1034,7 +1034,7 @@ F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
 	-1   0    0    1   
 $EndComp
 $Comp
-L LED:SK6812MINI L19
+L Keyboard_Library:SK6812MINI L19
 U 1 1 5D3B3C9E
 P 3050 9050
 F 0 "L19" H 2925 9300 50  0000 L CNN
@@ -1053,7 +1053,7 @@ Wire Wire Line
 Wire Wire Line
 	3350 8350 3550 8350
 $Comp
-L LED:SK6812MINI L18
+L Keyboard_Library:SK6812MINI L18
 U 1 1 5D3B3C84
 P 6250 8350
 F 0 "L18" H 6275 8600 50  0000 L CNN
@@ -1064,7 +1064,7 @@ F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:SK6812MINI L17
+L Keyboard_Library:SK6812MINI L17
 U 1 1 5D3B3C7E
 P 5450 8350
 F 0 "L17" H 5475 8600 50  0000 L CNN
@@ -1075,7 +1075,7 @@ F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:SK6812MINI L16
+L Keyboard_Library:SK6812MINI L16
 U 1 1 5D3B3C78
 P 4650 8350
 F 0 "L16" H 4675 8600 50  0000 L CNN
@@ -1086,7 +1086,7 @@ F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:SK6812MINI L15
+L Keyboard_Library:SK6812MINI L15
 U 1 1 5D3B3C72
 P 3850 8350
 F 0 "L15" H 3875 8600 50  0000 L CNN
@@ -1099,7 +1099,7 @@ $EndComp
 Wire Wire Line
 	2550 8350 2750 8350
 $Comp
-L LED:SK6812MINI L14
+L Keyboard_Library:SK6812MINI L14
 U 1 1 5D3B3C67
 P 3050 8350
 F 0 "L14" H 3075 8600 50  0000 L CNN
@@ -1132,7 +1132,7 @@ F 3 "" H 1750 8000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:SK6812MINI L13
+L Keyboard_Library:SK6812MINI L13
 U 1 1 5D3B3C52
 P 2250 8350
 F 0 "L13" H 2275 8600 50  0000 L CNN
@@ -1151,7 +1151,7 @@ Wire Wire Line
 Wire Wire Line
 	3350 7650 3550 7650
 $Comp
-L LED:SK6812MINI L12
+L Keyboard_Library:SK6812MINI L12
 U 1 1 5D36810E
 P 6250 7650
 F 0 "L12" H 6125 7900 50  0000 L CNN
@@ -1162,7 +1162,7 @@ F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
 	-1   0    0    1   
 $EndComp
 $Comp
-L LED:SK6812MINI L11
+L Keyboard_Library:SK6812MINI L11
 U 1 1 5D368108
 P 5450 7650
 F 0 "L11" H 5325 7900 50  0000 L CNN
@@ -1173,7 +1173,7 @@ F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
 	-1   0    0    1   
 $EndComp
 $Comp
-L LED:SK6812MINI L10
+L Keyboard_Library:SK6812MINI L10
 U 1 1 5D368102
 P 4650 7650
 F 0 "L10" H 4525 7900 50  0000 L CNN
@@ -1184,7 +1184,7 @@ F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
 	-1   0    0    1   
 $EndComp
 $Comp
-L LED:SK6812MINI L9
+L Keyboard_Library:SK6812MINI L9
 U 1 1 5D3680FC
 P 3850 7650
 F 0 "L9" H 3725 7900 50  0000 L CNN
@@ -1197,7 +1197,7 @@ $EndComp
 Wire Wire Line
 	2550 7650 2750 7650
 $Comp
-L LED:SK6812MINI L8
+L Keyboard_Library:SK6812MINI L8
 U 1 1 5D3680F1
 P 3050 7650
 F 0 "L8" H 2925 7900 50  0000 L CNN
@@ -1228,7 +1228,7 @@ Connection ~ 3050 6650
 Wire Wire Line
 	3050 6650 3850 6650
 $Comp
-L LED:SK6812MINI L6
+L Keyboard_Library:SK6812MINI L6
 U 1 1 5D33FFE4
 P 8850 6950
 F 0 "L6" H 8875 7200 50  0000 L CNN
@@ -1239,7 +1239,7 @@ F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:SK6812MINI L5
+L Keyboard_Library:SK6812MINI L5
 U 1 1 5D33BE08
 P 7100 6950
 F 0 "L5" H 7125 7200 50  0000 L CNN
@@ -1250,7 +1250,7 @@ F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:SK6812MINI L4
+L Keyboard_Library:SK6812MINI L4
 U 1 1 5D3368F0
 P 6250 6950
 F 0 "L4" H 6275 7200 50  0000 L CNN
@@ -1261,7 +1261,7 @@ F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:SK6812MINI L3
+L Keyboard_Library:SK6812MINI L3
 U 1 1 5D3339D0
 P 4650 6950
 F 0 "L3" H 4675 7200 50  0000 L CNN
@@ -1276,7 +1276,7 @@ Wire Wire Line
 Wire Wire Line
 	2550 6950 2750 6950
 $Comp
-L LED:SK6812MINI L2
+L Keyboard_Library:SK6812MINI L2
 U 1 1 5D319DBE
 P 3850 6950
 F 0 "L2" H 3875 7200 50  0000 L CNN
@@ -1309,7 +1309,7 @@ F 3 "" H 1750 6650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:SK6812MINI L1
+L Keyboard_Library:SK6812MINI L1
 U 1 1 5D2E8536
 P 2250 6950
 F 0 "L1" H 2275 7200 50  0000 L CNN
@@ -1320,7 +1320,7 @@ F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:SK6812MINI L29
+L Keyboard_Library:SK6812MINI L29
 U 1 1 5D5C8664
 P 6250 9750
 F 0 "L29" H 6275 10000 50  0000 L CNN
@@ -1461,7 +1461,7 @@ Wire Wire Line
 Wire Wire Line
 	2700 3400 2700 3250
 $Comp
-L LED:SK6812MINI L30
+L Keyboard_Library:SK6812MINI L30
 U 1 1 5FBC8279
 P 7150 9050
 F 0 "L30" H 7175 9300 50  0000 L CNN
@@ -1472,7 +1472,7 @@ F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
 	-1   0    0    1   
 $EndComp
 $Comp
-L LED:SK6812MINI L31
+L Keyboard_Library:SK6812MINI L31
 U 1 1 5FBC951D
 P 5450 9750
 F 0 "L31" H 5475 10000 50  0000 L CNN
@@ -1483,7 +1483,7 @@ F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:SK6812MINI L32
+L Keyboard_Library:SK6812MINI L32
 U 1 1 5FBC9BCE
 P 2250 9050
 F 0 "L32" H 2275 9300 50  0000 L CNN
@@ -1494,7 +1494,7 @@ F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
 	-1   0    0    1   
 $EndComp
 $Comp
-L LED:SK6812MINI L35
+L Keyboard_Library:SK6812MINI L35
 U 1 1 5FBCA361
 P 3050 6950
 F 0 "L35" H 3075 7200 50  0000 L CNN
@@ -1832,7 +1832,7 @@ F 3 "" H 7450 5850 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L LED:SK6812MINI L7
+L Keyboard_Library:SK6812MINI L7
 U 1 1 5D3680DC
 P 2250 7650
 F 0 "L7" H 2125 7900 50  0000 L CNN
@@ -2059,7 +2059,7 @@ Wire Wire Line
 Wire Wire Line
 	7700 6950 7400 6950
 $Comp
-L LED:SK6812MINI L33
+L Keyboard_Library:SK6812MINI L33
 U 1 1 5FBCBCC4
 P 8000 6950
 F 0 "L33" H 8025 7200 50  0000 L CNN
@@ -2070,7 +2070,7 @@ F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:SK6812MINI L34
+L Keyboard_Library:SK6812MINI L34
 U 1 1 5FBCB693
 P 5450 6950
 F 0 "L34" H 5475 7200 50  0000 L CNN
