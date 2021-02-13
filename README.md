@@ -21,7 +21,7 @@ Because of this it was renamed to Lotus58, referencing another flower much like 
 # Layout variations
 
 
-![Layout variations](https://github.com/4EBOOT/Lotus58/tree/Glow/Glow/Image/layout_variations.png "Layout Variations")
+![Layout variations](https://raw.githubusercontent.com/4EBOOT/Lotus58/Glow/Glow/Image/layout_variations.png "Layout Variations")
 
 
 
