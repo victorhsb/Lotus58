@@ -63,7 +63,7 @@ Because of this it was renamed to Lotus58, referencing another flower much like 
 
 # Things to note when ordering PCB's
 
-Most PCB manufacturers have a MOQ of 5 PCB's, meaning you en up with 2½ keyboards when finished. To make it possible to build Lotus58 at a reasonable cost, the plate designs use breakaway parts and can easily double as a backplate. For instance, 5 PCB's + 5 OLED plates + 5 Encoder plates gives you a couple of options without being wasteful.  
+Most PCB manufacturers have a MOQ of 5 PCB's, meaning you end up with 2½ keyboards when finished. To make it possible to build Lotus58 at a reasonable cost, the plate designs use breakaway parts and can easily double as a backplate. For instance, 5 PCB's + 5 OLED plates + 5 Encoder plates gives you a couple of options without being wasteful.  
 
 The recommended PCB thickness is 1.6 mm, as the thickness of the SK6812mini RGB LED's are infact 1.6 mm, making them sit flush 'inside' the PCB and easier to solder. Similarly, for the top plate, a thickness of 1.6 mm is recommended to allow the keyswitches to grip the plate and lock in place securely.
 
