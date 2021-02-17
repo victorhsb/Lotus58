@@ -13,13 +13,20 @@ Because of this it was renamed to Lotus58, referencing another flower much like 
 - Layout very similar to the original Lily58 family
 - Per key RGB and RGB underglow
 - Kaihl Hot-swap sockets for MX compatible switches
+- Split layout using i2c over TRRS
 - Two optional 0.91" OLED Screens
 - Two optional rotary encoders (one per side)
-- Optional layout for retaining all 58 keys and adding a rotary encoder per side (Removes OLED screen for that side)  
-- Optional layout swapping upper thumb key for a rotary encoder (Retains OLED screens for both sides)
+- All components through hole and easily soldered for beginners (SMD option for diodes)
+- Designed with a sandwich style plate/case as part of the design
+- Multiple plate layout variations available
 
 
 # Layout variations
+
+- Optional plate layout with OLED screen (Encoder can be placed on upper thumb key position)
+- Optional plate layout with rotary encoder (Removes OLED screen for that side)  
+- Optional plate layout with no hole for OLED or upper encoder (Encoder can be placed on upper thumb key position)
+
 
 
 ![Layout variations](https://raw.githubusercontent.com/4EBOOT/Lotus58/Glow/Glow/Image/layout_variations.png "Layout Variations")
@@ -54,6 +61,10 @@ Because of this it was renamed to Lotus58, referencing another flower much like 
 | Knob | 0-2 | One for each encoder. | Just find that suits you on Aliexpress, but you need "half" encoder knob | [link](https://www.aliexpress.ru/item/-/4000803810154.html?spm=a2g0s.8937460.0.0.6f132e0euvl1vV&_ga=2.216898198.1036705865.1612730332-979734211.1611132916&_gac=1.191596248.1611132916.CjwKCAiAxp-ABhALEiwAXm6IyZF-HtTdP3MQioG5GOxLvsaJfBbhqTGIQbmV0LXKDx2MZSDJJJTbaBoCPkoQAvD_BwE) |
 | RGB LED's SK6812mini(3535) | 56-58 | ✔ | Qty. depends on layout. | [link](https://www.aliexpress.ru/item/-/4001361956752.html?spm=a2g0s.8937460.0.0.6f132e0eCg84IE&_ga=2.137862832.1036705865.1612730332-979734211.1611132916&_gac=1.14797764.1611132916.CjwKCAiAxp-ABhALEiwAXm6IyZF-HtTdP3MQioG5GOxLvsaJfBbhqTGIQbmV0LXKDx2MZSDJJJTbaBoCPkoQAvD_BwE) |
 
+# Things to note when ordering PCB's
 
+Most PCB manufacturers have a MOQ of 5 PCB's, meaning you en up with 2½ keyboards when finished. To make it possible to build Lotus58 at a reasonable cost, the plate designs use breakaway parts and can easily double as a backplate. For instance, 5 PCB's + 5 OLED plates + 5 Encoder plates gives you a couple of options without being wasteful.  
 
+The recommended PCB thickness is 1.6 mm, as the thickness of the SK6812mini RGB LED's are infact 1.6 mm, making them sit flush 'inside' the PCB and easier to solder. Similarly, for the top plate, a thickness of 1.6 mm is recommended to allow the keyswitches to grip the plate and lock in place securely.
 
+If ordering from [JLPCB](https://www.jlpcb.com) the plate Gerber files include a reference putting the added serial etc on a breakaway part for a clean look with minimal cost, if using another manufacturer it's possible they have additional fee's for removing the extra text, or you should consider plotting the Gerber files yourself with the correct reference for your manufacturer.
