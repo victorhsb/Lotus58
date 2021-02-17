@@ -13,12 +13,10 @@ Because of this it was renamed to Lotus58, referencing another flower much like 
 - Layout very similar to the original Lily58 family
 - Per key RGB and RGB underglow
 - Kaihl Hot-swap sockets for MX compatible switches
-- Split layout using i2c over TRRS
-- Two optional 0.91" OLED Screens
-- Two optional rotary encoders (one per side)
+- Can be used as a standalone Gamepad for either hand
+- Optional 0.91" OLED Screens and rotary encoders (one each per side)
 - All components through hole and easily soldered for beginners (SMD option for diodes)
 - Designed with a sandwich style plate/case as part of the design
-- Can be used as a standalone Gamepad for either hand
 
 
 # Layout variations
