@@ -18,7 +18,7 @@ Because of this it was renamed to Lotus58, referencing another flower much like 
 - Two optional rotary encoders (one per side)
 - All components through hole and easily soldered for beginners (SMD option for diodes)
 - Designed with a sandwich style plate/case as part of the design
-- Multiple plate layout variations available
+- Can be used as a standalone Gamepad for either hand
 
 
 # Layout variations
