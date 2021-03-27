@@ -41,9 +41,9 @@ Because of this, it was renamed Lotus58, referencing another flower much like th
 
 | Name of part | Qty. | Optional | Remarks | Aliexpress Link |
 | ------------ | ---- | -------- | ------- | --------------- |
-| PCB          | 2    | X        | 1,6mm thick | X           |
-| Top plate         | 2 | X        | Optional layouts for OLED or encoder in top position. | X |
-| Bottom plate         | 2 | X        | X | X |
+| PCB          | 2    | X        |  | [JLPCB](https://jlcpcb.com/)   |
+| Top plate         | 2 | X        | Optional layouts for OLED or encoder in top position. | [JLPCB](https://jlcpcb.com/) |
+| Bottom plate         | 2 | X        | X | [JLPCB](https://jlcpcb.com/) |
 | Kailh hotswap socket | 56-58 | X | Qty. depends on layout. | [link](https://www.aliexpress.com/item/-/4001051840976.html?spm=a2g0s.8937460.0.0.6f132e0eKYB5RQ&_ga=2.174414626.1036705865.1612730332-979734211.1611132916&_gac=1.119713146.1611132916.CjwKCAiAxp-ABhALEiwAXm6IyZF-HtTdP3MQioG5GOxLvsaJfBbhqTGIQbmV0LXKDx2MZSDJJJTbaBoCPkoQAvD_BwE) |
 | Diodes 1N4841 (TH) or 1N4148W (SMD) | 56-58 | X | Qty. depends on layout. TH recommended for beginners. | [link(TH)](https://www.aliexpress.com/item/HOT-SELL-100-PCS-1N4148-DO-35-IN4148-Silicon-Switching-Diode-FREE-SHIPPMENT/32660088529.html?spm=a2g0s.8937460.0.0.c1b82e0edjrOT3&_ga=2.216963734.1036705865.1612730332-979734211.1611132916&_gac=1.53192282.1611132916.CjwKCAiAxp-ABhALEiwAXm6IyZF-HtTdP3MQioG5GOxLvsaJfBbhqTGIQbmV0LXKDx2MZSDJJJTbaBoCPkoQAvD_BwE) or [link(SMD)](https://www.aliexpress.ru/item/-/1005002059571417.html?spm=a2g0s.8937460.0.0.c1b82e0edjrOT3&_ga=2.216963734.1036705865.1612730332-979734211.1611132916&_gac=1.53192282.1611132916.CjwKCAiAxp-ABhALEiwAXm6IyZF-HtTdP3MQioG5GOxLvsaJfBbhqTGIQbmV0LXKDx2MZSDJJJTbaBoCPkoQAvD_BwE) |
 | Capacitors 100 nF | 0-4 | ✔ | Qty. depends on layout. 2 needed for each encoder installed. | [link](https://www.aliexpress.com/item/-/32971478818.html?spm=a2g0s.8937460.0.0.6f132e0eKYB5RQ&_ga=2.149198518.1036705865.1612730332-979734211.1611132916&_gac=1.48473428.1611132916.CjwKCAiAxp-ABhALEiwAXm6IyZF-HtTdP3MQioG5GOxLvsaJfBbhqTGIQbmV0LXKDx2MZSDJJJTbaBoCPkoQAvD_BwE) |
@@ -66,4 +66,4 @@ Most PCB manufacturers have a MOQ of 5 PCB's, meaning you end up with 2½ keyboa
 
 The recommended PCB thickness is 1.6 mm, as the thickness of the SK6812mini RGB LED's are in fact 1.6 mm, making them sit flush 'inside' the PCB and easier to solder. Similarly, for the top plate, a thickness of 1.6 mm is recommended to allow the keyswitches to grip the plate and lock in place securely.
 
-If ordering from [JLPCB](https://www.jlpcb.com) the plate Gerber files include a reference putting the added serial etc on a breakaway part for a clean look with minimal cost, if using another manufacturer it's possible they have additional fee's for removing the extra text, or you should consider plotting the Gerber files yourself with the correct reference for your manufacturer.
+If ordering from [JLPCB](https://jlcpcb.com/) the plate Gerber files include a reference putting the added serial etc on a breakaway part for a clean look with minimal cost, if using another manufacturer it's possible they have additional fee's for removing the extra text, or you should consider plotting the Gerber files yourself with the correct reference for your manufacturer.
