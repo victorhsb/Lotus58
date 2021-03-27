@@ -31,7 +31,9 @@ Because of this, it was renamed Lotus58, referencing another flower much like th
 
 
 
+# Build Guide
 
+[Lotus58 Wiki](https://github.com/TweetyDaBird/Lotus58/wiki)
 
 
 
