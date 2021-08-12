@@ -1,6 +1,6 @@
 # Lotus 58
 
-Starting with simple tweaks to the Lily58 Glow before ordering a set of PCB's it quickly spiraled out of control, and I ended up with what wasn't quite a Lily58 anymore, and although very similar in layout, it is no longer compatible with plate and case design. 
+Starting with simple tweaks to the Lily58 Glow before ordering a set of PCB's it quickly spiraled out of control, and I ended up with what wasn't quite a Lily58 anymore, and although very similar in layout, it is no longer compatible with plate and case design.
 
 Because of this, it was renamed Lotus58, referencing another flower much like the lily in the name Lily58.
 
@@ -69,4 +69,4 @@ Most PCB manufacturers have a MOQ of 5 PCB's, meaning you end up with 2½ keyboa
 
 The recommended PCB thickness is 1.6 mm, as the thickness of the SK6812mini RGB LED's are in fact 1.6 mm, making them sit flush 'inside' the PCB and easier to solder. Similarly, for the top plate, a thickness of 1.6 mm is recommended to allow the keyswitches to grip the plate and lock in place securely.
 
-If ordering from [JLPCB](https://jlcpcb.com/) the plate Gerber files include a reference putting the added serial etc on a breakaway part for a clean look with minimal cost, if using another manufacturer it's possible they have additional fee's for removing the extra text, or you should consider plotting the Gerber files yourself with the correct reference for your manufacturer.
+If ordering from [JLCPCB](https://jlcpcb.com/) the plate Gerber files include a reference putting the added serial etc on a breakaway part for a clean look with minimal cost, if using another manufacturer it's possible they have additional fee's for removing the extra text, or you should consider plotting the Gerber files yourself with the correct reference for your manufacturer.
