@@ -24,6 +24,7 @@ Because of this, it was renamed Lotus58, referencing another flower much like th
 - Optional plate layout with OLED screen (Encoder can be placed on upper thumb key position)
 - Optional plate layout with rotary encoder (Removes OLED screen for that side)  
 - Optional plate layout with no hole for OLED or upper encoder (Encoder can be placed on upper thumb key position)
+- All Plates available in two variation, with breakaway parts and without, to be fully compatible with all common PCB manufacturers requirements. 
 
 
 
@@ -69,4 +70,8 @@ Most PCB manufacturers have a MOQ of 5 PCB's, meaning you end up with 2½ keyboa
 
 The recommended PCB thickness is 1.6 mm, as the thickness of the SK6812mini RGB LED's are in fact 1.6 mm, making them sit flush 'inside' the PCB and easier to solder. Similarly, for the top plate, a thickness of 1.6 mm is recommended to allow the keyswitches to grip the plate and lock in place securely.
 
-If ordering from [JLCPCB](https://jlcpcb.com/) the plate Gerber files include a reference putting the added serial etc on a breakaway part for a clean look with minimal cost, if using another manufacturer it's possible they have additional fee's for removing the extra text, or you should consider plotting the Gerber files yourself with the correct reference for your manufacturer.
+If ordering from [JLCPCB](https://jlcpcb.com/) the plate Gerber files include a reference putting the added serial etc on a breakaway part for a clean look with minimal cost, if using another manufacturer it's possible they have additional fee's for removing the extra text, or you should consider plotting the Gerber files yourself with the correct reference for your manufacturer. (Dependant on if you choose plates with breakaway parts or not).
+
+# Interested in building your own keyboard, but worried you won't get all the parts right?
+
+I'm selling PCB's, Plate's and kits of components ready to build on [Tindie](https://www.tindie.com/stores/tweetydabird/), as a way of funding my habit of designing weird keyboards. You will still need to source the cosmetic parts like switches and keycaps/knobs, but the basic parts to build a working keyboard are available. 
