@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 19548705212410604
+=======
+19548758725318979
+>>>>>>> Stashed changes
 BK-888
 BAT_BK-888
 
@@ -57362,7 +57366,11 @@ Panasonic-EVP-AKE31A-MFG_reversible
 
 
 0
+<<<<<<< Updated upstream
 17
+=======
+12
+>>>>>>> Stashed changes
 5
 Keyboard Library
 PinHeader_2x03_P1.27mm_Vertical
@@ -57398,7 +57406,11 @@ Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/p
 rotary encoder
 0
 9
+<<<<<<< Updated upstream
 6
+=======
+7
+>>>>>>> Stashed changes
 Keyboard Library
 RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
 Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
