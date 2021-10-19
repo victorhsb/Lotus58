@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream
-19548705212410604
-=======
-19548758725318979
->>>>>>> Stashed changes
+19552055316720992
 BK-888
 BAT_BK-888
 
@@ -57292,6 +57288,13 @@ LEDSC160X160X070-4N_reversible
 8
 4
 Keyboard Library
+LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm
+https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf
+LED RGB NeoPixel Mini
+0
+8
+4
+Keyboard Library
 Lipo_battery_1S_130mAh
 Seiko MS621F, https://www.sii.co.jp/en/me/files/2014/02/file_EXTENDED_PRDCT_SPEC_75_FILE_11.jpg
 Seiko MS621F
@@ -57366,11 +57369,7 @@ Panasonic-EVP-AKE31A-MFG_reversible
 
 
 0
-<<<<<<< Updated upstream
-17
-=======
 12
->>>>>>> Stashed changes
 5
 Keyboard Library
 PinHeader_2x03_P1.27mm_Vertical
@@ -57406,11 +57405,7 @@ Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/p
 rotary encoder
 0
 9
-<<<<<<< Updated upstream
-6
-=======
 7
->>>>>>> Stashed changes
 Keyboard Library
 RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
 Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
@@ -85032,6 +85027,13 @@ Add-on for regular MX-footprints with SK6812 MINI-E
 cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight
 0
 4
+4
+kicad-keyboard-parts
+MX_SK6812MINI-E_REVERSIBLE
+Add-on for regular MX-footprints with SK6812 MINI-E
+cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight
+0
+8
 4
 kicad-keyboard-parts
 R_0402_1005Metric_stealth
