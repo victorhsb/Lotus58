@@ -1,4 +1,4 @@
-19552056111312425
+19578257184676565
 BK-888
 BAT_BK-888
 
@@ -56882,6 +56882,20 @@ CC40
 0
 0
 Keyboard Library
+CC_BY_NC_SA
+
+
+0
+0
+0
+Keyboard Library
+CC_BY_SA_40
+
+
+0
+0
+0
+Keyboard Library
 Cherry_MX_Kaihl_HS_1.0u
 MX-style keyswitch with reversible Kailh socket mount
 MX,cherry,gateron,kailh,pg1511,socket
@@ -57079,6 +57093,13 @@ MX,cherry,gateron,kailh,pg1511,socket
 0
 Keyboard Library
 Cherry_MX_Plate_Hole_Placeholder_holee_2_in_1
+MX-style keyswitch with reversible Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+0
+0
+Keyboard Library
+Cherry_MX_Plate_Placeholder
 MX-style keyswitch with reversible Kailh socket mount
 MX,cherry,gateron,kailh,pg1511,socket
 0
@@ -57372,6 +57393,13 @@ Panasonic-EVP-AKE31A-MFG_reversible
 12
 5
 Keyboard Library
+PinHeader_1x05_P2.54mm_Vertical
+Through hole straight pin header, 1x05, 2.54mm pitch, single row
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
+Keyboard Library
 PinHeader_2x03_P1.27mm_Vertical
 Through hole straight pin header, 2x03, 1.27mm pitch, double rows
 Through hole pin header THT 2x03 1.27mm double row
@@ -57547,6 +57575,13 @@ TS-A002
 4
 3
 Keyboard Library
+Unified-Daughterboard
+
+
+0
+4
+1
+Keyboard Library
 Waveshare_1.02_epaper
 
 
@@ -57651,6 +57686,13 @@ roundhole
 0
 1
 1
+Keyboard Library
+trackball
+Through hole straight pin header, 1x05, 2.54mm pitch, single row
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
 Keyboard Library
 unWired
 
@@ -77959,6 +78001,13 @@ Switch
 4
 4
 SamacSys_Parts
+EVPBL2A1B000
+EVP-BL2A1B000-1
+Switch
+0
+4
+4
+SamacSys_Parts
 JS102011SCQN
 JS102011SCQN
 Switch
@@ -84812,6 +84861,13 @@ varistor SIOV
 2
 2
 keyswitches
+Cherry_MX_Plate_Placeholder
+MX-style keyswitch with reversible Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+0
+0
+keyswitches
 Kaih_socket_MX_Choc_V1&V2_reversible
 MX-style keyswitch with reversible Kailh socket mount
 MX,cherry,gateron,kailh,pg1511,socket
@@ -84938,6 +84994,20 @@ kailh,choc
 4
 2
 keyswitches
+OLED_plate_placeholder
+
+
+0
+0
+0
+keyswitches
+RotaryEncoder_PlateHole_Placeholder
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+0
+0
+keyswitches
 SW_MX
 MX-style keyswitch
 MX,cherry,gateron,kailh
@@ -84983,6 +85053,48 @@ keyswitches
 Stabilizer_MX_2u
 MX-style stabilizer mount
 MX,cherry,gateron,kailh,pg1511,stabilizer,stab
+0
+0
+0
+kicad custom library
+BAT_BU2032SM-JJ-MINI-GTR
+
+
+0
+2
+2
+kicad custom library
+CC-BY-SA-40
+
+
+0
+0
+0
+kicad custom library
+CC_BY_NC_SA
+
+
+0
+0
+0
+kicad custom library
+LEDSC160X160X070-4N
+
+
+0
+4
+4
+kicad custom library
+LED_LTST-S326KGJRKT
+
+
+0
+3
+3
+kicad custom library
+logo
+
+
 0
 0
 0
