@@ -62,7 +62,7 @@ Because of this, it was renamed Lotus58, referencing another flower much like th
 
 # Things to note when ordering PCB's
 
-If you are not aiming at modifying things, don't look for the gerber files in the folders, pretty please! And don't open yet another issue about it! The files are where they belong, zipped up in releases.
+**If you are not aiming at modifying things, don't look for the gerber files in the folders, pretty please! And don't open yet another issue about it! The files are where they belong, zipped up in releases.**
 
 Most PCB manufacturers have a MOQ of 5 PCB's, meaning you end up with 2½ keyboards when finished. To make it possible to build Lotus58 at a reasonable cost, the plate designs use breakaway parts and can easily double as a backplate. For instance, 5 PCB's + 5 OLED plates + 5 Encoder plates give you a couple of options without being wasteful.  
 
