@@ -12,5 +12,5 @@ Glow/PCB/MX/bom.ini
 *.gbo
 *.gbl
 *.gbs
-
 *.gto
+PCB\Gerber\
