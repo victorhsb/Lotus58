@@ -5,8 +5,8 @@ $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
 Title "Lotus 58 Glow"
-Date "2021-12-11"
-Rev "v1.22"
+Date "2021-12-17"
+Rev "v1.23"
 Comp "Markus Knutsson <markus.knutsson@tweety.se>"
 Comment1 "https://github.com/TweetyDaBird"
 Comment2 "Licensed under CERN-OHL-S v2 or any superseding version"
@@ -1697,7 +1697,7 @@ U 1 1 5B739F4A
 P 13850 4400
 F 0 "R2" V 13950 4400 50  0000 C BNN
 F 1 "4k7" V 13850 4400 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 13780 4400 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 13780 4400 50  0001 C CNN
 F 3 "" H 13850 4400 50  0001 C CNN
 	1    13850 4400
 	0    -1   -1   0   
@@ -1718,7 +1718,7 @@ U 1 1 5B73A034
 P 13850 4200
 F 0 "R1" V 13950 4200 50  0000 C BNN
 F 1 "4k7" V 13850 4200 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 13780 4200 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 13780 4200 50  0001 C CNN
 F 3 "" H 13850 4200 50  0001 C CNN
 	1    13850 4200
 	0    -1   -1   0   
