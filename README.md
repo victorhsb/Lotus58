@@ -39,7 +39,7 @@ Because of this, it was renamed Lotus58, referencing another flower much like th
 
 
 
-| Name of part | Qty. | Optional | Remarks | Aliexpress Link |
+| Name of part | Qty. | Optional | Remarks | Aliexpress |
 | ------------ | ---- | -------- | ------- | --------------- |
 | PCB          | 2    | X        | 1,6mm thick | X           |
 | Top plate         | 2 | X        | Optional layouts for OLED or encoder in top position. | X |
